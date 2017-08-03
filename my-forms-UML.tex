@@ -1,0 +1,48 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% NAME:		    my-forms-UML.tex
+%
+% AUTHOR:	    Ethan D. Twardy
+%
+% DESCRIPTION:	    UML diagram for the new and improved my-forms script.
+%
+% CREATED:	    08/03/2017
+%
+% LAST EDITED:	    08/03/2017
+%%%
+
+\documentclass{article}
+\usepackage{tikz}
+\usepackage[active,tightpage]{preview}
+\PreviewEnvironment{tikzpicture}
+
+\usetikzlibrary{positioning,shapes,shadows,arrows}
+
+\begin{document}
+\setlength{\parindent}{1cm}
+\tikzset{
+  class/.style = {rectangle,draw=black,rounded corners,fill=blue!40, %
+    drop shadow, text centered, anchor=north, text=white,text width=3cm, %
+    rectangle split, rectangle split parts=2},
+  arrow/.style = {->, thick}
+}
+
+\begin{center}
+  \begin{tikzpicture}
+    \node (Title) [above=5mm,right=0mm]
+          {
+            \textsc{UML Diagram for Banweb Crawler}
+          };
+    \node (Form) [class, below=3mm of Title]
+          {
+            \textbf{Form}
+            \nodepart{second}
+                     { \begin{flushleft}
+                         Members:\\ \textit{%
+                           \indent Type\\ \indent Name
+                           }
+                       \end{flushleft}
+                     }
+          };
+  \end{tikzpicture}
+\end{center}
+\end{document}
