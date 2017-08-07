@@ -35,13 +35,24 @@
 
 typedef enum option {NONE, SOME, ALL};
 
+typedef struct course_t {
+
+  char department[3];
+  int number;
+
+} course_t;
+
 typedef struct conf_options {
 
-int * req_courses;	/* Courses that are required to be returned. */
-option online;		/* Return online courses? */
-int * degree_req;	/* Degree requirements that are to be filled. */
-bool shecule;		/* Create a schedule? */
-int err_mask;		/* Non-zero if there was an error. */
+  course_t * req_courses;	/* Courses that are required to be returned. */
+  int req_courses_size;
+
+  char * degree_req;	/* Degree requirements that are to be filled. */
+  int degree_req_size;
+
+  option online;		/* Return online courses? */
+  bool shecule;		/* Create a schedule? */
+  int err_mask;		/* Non-zero if there was an error. */
 
 } conf_options;
 
@@ -50,6 +61,7 @@ int err_mask;		/* Non-zero if there was an error. */
  ***/
 
 extern conf_options * confparse(FILE * conf);
+extern void conf_options_destroy(conf_options * conf);
 
 #endif /* __ET_CONFPARSE_H__ */
 
