@@ -15,6 +15,8 @@
  * INCLUDES
  ***/
 
+#include <stdio.h>
+
 #include "confparse.h"
 
 /*******************************************************************************
@@ -24,7 +26,7 @@
 int main(int argc, char * argv[])
 {
 
-  char * filename = "test.conf";
+  FILE * filename = fopen("test.conf", "r");
 
   conf_options * options = confparse(filename);
 
