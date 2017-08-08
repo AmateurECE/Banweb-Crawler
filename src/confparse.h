@@ -17,7 +17,7 @@
  * INCLUDES
  ***/
 
-#include <stdlib.h>
+#include <stdio.h>
 #include <stdbool.h>
 
 /*******************************************************************************
@@ -33,7 +33,7 @@
  * TYPE DEFINITIONS
  ***/
 
-typedef enum option {NONE, SOME, ALL};
+typedef enum {NONE=1, SOME=2, ALL=3} option;
 
 typedef struct course_t {
 
@@ -51,7 +51,7 @@ typedef struct conf_options {
   int degree_req_size;
 
   option online;		/* Return online courses? */
-  bool shecule;		/* Create a schedule? */
+  bool schedule;		/* Create a schedule? */
   int err_mask;		/* Non-zero if there was an error. */
 
 } conf_options;

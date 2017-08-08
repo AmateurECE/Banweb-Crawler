@@ -3,15 +3,15 @@
 #
 # AUTHOR:	    Ethan D. Twardy
 #
-# DESCRIPTION:	    confparse testing script.
+# DESCRIPTION:	    Compiles conftest for testing.
 #
 # CREATED:	    08/07/2017
 #
 # LAST EDITED:	    08/07/2017
 ###
 
-gcc -g -Wall -O0 `pkg-config --libs --cflags libpcre` -o conftest \
-    conftest.c confparse.c -lpcre
+gcc -g -Wall -O0 `pkg-config --libs --cflags libpcre` \
+    -o conftest conftest.c confparse.c
 
 if [[ $? != "0" ]]; then
     exit

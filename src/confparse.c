@@ -28,7 +28,7 @@
 
 #define SET_N_RET(errval) {			\
     ret_err = errval;				\
-    goto err_exit;				\
+    goto error_exit;				\
   }
 
 /* Internal macros for variable parsing. */
@@ -64,7 +64,7 @@ typedef struct regstruc_t {
 
 static int regstruc_init(regstruc_t * regstruc, char * regex);
 static int regstruc_match_string(regstruc_t * regstruc);
-static int regstruc_destroy(regstruc_t * regstruc);
+static void regstruc_destroy(regstruc_t * regstruc);
 
 static int conf_populate(conf_options * opts, char * varname, char * varval);
 
@@ -89,9 +89,9 @@ conf_options * confparse(FILE * conf)
   /****
    * Check for errors
    */
-  extern error_mode; /* Defined in stopif.h */
+  extern char error_mode; /* Defined in stopif.h */
   char loc_err = error_mode;
-  error_mode = ''; /* Save the value and unset. */
+  error_mode = '\0'; /* Save the value and unset. */
   int ret_err;
 
   conf_options * opts = malloc(sizeof(conf_options));
@@ -116,7 +116,7 @@ conf_options * confparse(FILE * conf)
     regstruc_t * regstruc;
     *regstruc = (regstruc_t){.input = buff,
 			     .input_size = sizeof(buff)};
-    if (match_string(regstruc)) {
+    if (regstruc_match_string(regstruc)) {
       /* ovec[2] - ovec[3]: Start and end of capture group 1, respectively.
        * ovec[4] - ovec[5]: Start and end of capture group 2, respectively.
        */
@@ -144,7 +144,7 @@ conf_options * confparse(FILE * conf)
   return opts;
 
  error_exit: {
-    error_mode = loc_error; /* Restore error_mode. */
+    error_mode = loc_err; /* Restore error_mode. */
     opts->err_mask = ret_err;
     return NULL;
   }
@@ -164,10 +164,10 @@ conf_options * confparse(FILE * conf)
 void conf_options_destroy(conf_options * conf)
 {
 
-  for (int i = 0; i < REQ_COURSES(conf)_size; i++)
-    free(REQ_COURSES(conf)[i]);
+  for (int i = 0; i < conf->req_courses_size; i++)
+    free(&REQ_COURSES(conf)[i]);
 
-  for (int i = 0; i < DEG_REQUIREMENTS(conf)_size; i++)
+  for (int i = 0; i < degree_req_size; i++)
     free(DEG_REQUIREMENTS(conf)[i]);
 
   free(conf);
@@ -199,11 +199,15 @@ static int regstruc_init(regstruc_t * regstruc, char * regex)
   char * iserror = NULL;
   int erroffset = 0;
   
-  regstruc->pcre = pcre_compile(regstruc->regex, 0, &iserror, &erroffset, NULL);
+  regstruc->pcre = pcre_compile(regstruc->regex,
+				0,
+				(const char **)&iserror,
+				&erroffset,
+				NULL);
   if (regstruc->pcre == NULL || iserror != NULL)
     return -1;
 
-  regstruc->extra = pcre_study(regstruc->pcre, 0, &iserror);
+  regstruc->extra = pcre_study(regstruc->pcre, 0, (const char **)&iserror);
   if (iserror != NULL)
     return -1;
 
@@ -264,7 +268,7 @@ static void regstruc_destroy(regstruc_t * regstruc)
 {
 
   pcre_free(regstruc->pcre);
-  if (regstruc->exra != NULL)
+  if (regstruc->extra != NULL)
     pcre_free_study(regstruc->extra);
   free(regstruc->regex);
   
@@ -297,11 +301,11 @@ static int conf_populate(conf_options * opts, char * varname, char * varval)
     while (strtok(varval, ",")) arr_size++;
 
     REQ_COURSES(opts) = malloc(arr_size * sizeof(course_t));
-    REQ_COURSES(opts)_size = arr_size;
+    opts->req_courses_size = arr_size;
 
     int i = 0;
     char * entry = NULL;
-    while ((entry = strtok(varval), ",") != NULL) {
+    while ((entry = strtok(varval, ",")) != NULL) {
       REQ_COURSES(opts)[i]->department = strndup(entry, 2);
       REQ_COURSES(opts)[i]->number = strtol(entry + 2, NULL, 10);
       i++;
@@ -323,7 +327,7 @@ static int conf_populate(conf_options * opts, char * varname, char * varval)
     while (strtok(varval, ",")) arr_size++;
 
     DEGREE_REQ(opts) = malloc(arr_size * sizeof(char *));
-    DEGREE_REQ(opts)_size = arr_size;
+    opts->degree_req_size = arr_size;
 
     int i = 0;
     char * entry = NULL;
