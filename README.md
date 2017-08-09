@@ -9,6 +9,5 @@
   an attractive user-interface. This repository also contains branches that
   implement the same program in pure C and Perl with embedded C for some of the
   trickier internals. Those branches can be viewed on
-  <a href="https://github.com/AmateurECE/Banweb-Crawler">AmateurECE's Github</a>
-  .
+  <a href="https://github.com/AmateurECE/Banweb-Crawler">AmateurECE's Github</a>.
 </p>
