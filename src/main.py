@@ -37,6 +37,7 @@ def main():
 
     mybanweb = banweb.Banweb()
     mybanweb.login(name, passwd)
+    mybanweb.get_audit()
     
 ################################################################################
 # Main
