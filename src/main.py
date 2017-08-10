@@ -18,6 +18,8 @@
 ###
 
 import os
+import audit
+import banweb
 
 ################################################################################
 # Functions
@@ -26,17 +28,21 @@ import os
 def main():
     """The main method - the top of the stack."""
     # TODO: The following code is for testing only.
-    name = raw_input("Username: ")
+    name = input("Username: ")
     os.system("stty -echo") # Turn off echo for the password
-    passwd = raw_input("Password: ")
-    os.system("stty -echo") # Turn it back on.
+    passwd = input("Password: ")
+    os.system("stty echo") # Turn it back on.
+    print()
     ### END TODO ###
 
+    mybanweb = banweb.Banweb()
+    mybanweb.login(name, passwd)
+    
 ################################################################################
 # Main
 ###
 
-if __name__ == '__main__'::
+if __name__ == '__main__':
     main()
 
 # EOF ##########################################################################
