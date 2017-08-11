@@ -1,0 +1,58 @@
+################################################################################
+# NAME:		    Options.conf.tmpl
+#
+# AUTHOR:	    Ethan D. Twardy
+#
+# DESCRIPTION:	    Template for options configuration file for use with
+#		    confparse.c.
+#
+# CREATED:	    08/07/2017
+#
+# LAST EDITED:	    08/07/2017
+###
+
+# Commented lines start with a '#' character, and have zero whitespace
+# at the beginning.
+
+# This file gives directions to the web crawler and tells it what to look for.
+# This is done by the assignment of a few variables. An assignment is made up
+# of a name and a value, and looks like below:
+#
+#   SCHEDULE = TRUE
+#
+# 'SCHEDULE' is the name of the variable, and 'TRUE' is the value. Single spaces
+# around the equals sign are optional. Any more whitespace than that is
+# significant. Whitespace at the beginning and the end of a line is significant.
+
+################################################################################
+# This variable signals to the program which courses must be examined. This
+# comes in the form of a comma delimited list. Spaces between the fields are not
+# allowed. An example is shown below.
+#
+#   REQ_COURSES = EE3140,CS1142,CS2331
+
+REQ_COURSES =
+
+################################################################################
+# This variable is a list of comma separated regexes to search for. For example,
+# if the degree audit says "GenEd Core" followed by a list of available courses,
+# Putting this as an assignment will cause the program to examine all of the
+# classes listed under the "GenEd Core" requirement. As before, spaces between
+# elements is not allowed. If the regex is not found on the audit, it will
+# be ignored.
+
+DEG_REQUIREMENTS =
+
+################################################################################
+# This requirement causes the program to output classes that are online. This
+# variable takes one of three values:
+#   NONE (Do not examine online classes)
+#   SOME (Don't really care--examine all classes)
+#   ALL (Only examine online classes.)
+
+ONLINE =
+
+################################################################################
+# This variable is not yet implemented. It will fail under any circumstances.
+
+SCHEDULE = 
