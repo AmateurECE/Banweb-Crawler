@@ -18,7 +18,7 @@
     in the programming languages C and Perl. This branch, when finished, has the
     potential to be faster than the Python branch, with little expense
     regarding portability and security. This branch is not currently in
-    development.<li>
+    development.</li>
 </ul>
 <br/>
 <p><em>Disclaimer: Banweb Crawler aims to keep your information as secure as
