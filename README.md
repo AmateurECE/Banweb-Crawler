@@ -2,11 +2,11 @@
 <p>This repository presents a web-based application that builds your future. In
   a way, of course. This application is built for MTU students who are
   frustrated with Banweb's usual interface.</p>
-<p>So what does it do? Banweb Crawler builds presents you, the student, with
+<p>So what does it do? Banweb Crawler presents you, the student, with
   schedule options that fit your needs, and your timeline. It builds you a
   custom schedule based on requirements that you set forth. In other words,
   Banweb Crawler is the academic advisor that listens.</p>
-<p>This repository is split into two sub-projects. These are
+<p>This repository is split into two sub-projects. They are
   explained below:</p>
 <ul>
   <li><b>Python:</b> This directory contains the impelentation of the application
