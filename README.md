@@ -6,19 +6,17 @@
   schedule options that fit your needs, and your timeline. It builds you a
   custom schedule based on requirements that you set forth. In other words,
   Banweb Crawler is the academic advisor that listens.</p>
-<p>This repository is split into three (currently) branches. These branches are
+<p>This repository is split into two sub-projects. These are
   explained below:</p>
 <ul>
-  <li><b>Master:</b> The master branch contains only the web interface and
-    project documentation. These can also be found in the source branches.</li>
-  <li><b>Python:</b> This branch contains the impelentation of the application
+  <li><b>Python:</b> This directory contains the impelentation of the application
     in the programming language Python. Currently, this is the
     development branch.</li>
-  <li><b>C-Perl:</b> This branch contains the implementation of the application
-    in the programming languages C and Perl. This branch, when finished, has the
-    potential to be faster than the Python branch, with little expense
-    regarding portability and security. This branch is not currently in
-    development.</li>
+  <li><b>C-Perl:</b> This directory contains the implementation of the 
+    application in the programming languages C and Perl. This branch, when 
+    finished, has the potential to be faster than the Python branch, with 
+    little expense regarding portability and security. This branch is not 
+    currently in development.</li>
 </ul>
 <br/>
 <p><em>Disclaimer: Banweb Crawler aims to keep your information as secure as
