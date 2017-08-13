@@ -1,0 +1,36 @@
+################################################################################
+# NAME:		    .README-JAKE
+#
+# AUTHOR:	    Ethan D. Twardy
+#
+# DESCRIPTION:	    README for the authors.
+#
+# CREATED:	    08/13/2017
+#
+# LAST EDITED:	    08/13/2017
+###
+
+Heyo Jake,
+
+So in this folder I have included a couple of templates for html files. They're
+completely skeletal, but I've tried to comment the things that I'm looking for.
+If at all possible, I would like for all of the potential schedules to be
+displayed on the same page, with drop links that show/hide each schedule, kinda
+like Wikipedia's mobile page. Also, and we can talk about this a little more in
+detail later, I'm imagining for select forms on the login page a little feature
+that inserts a new text box each time something is input into the previous one.
+For example, the "Required Courses" option. Load the page with only one box for
+this form, but then each time the field is filled, insert a new box. They can
+be passed to the cgi script as like a csv list, or an array, or something?
+
+Finally, I'm considering porting this whole application to Flask. Have you ever
+used it? Would you have any qualms about that? It might make your life a little
+easier. I suggest looking into that option, and let me know if that's something
+you want to pursue. As always, if you have any questions, I'll be only a text
+away.
+
+Thanks,
+
+-- Ethan
+
+################################################################################
