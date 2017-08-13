@@ -18,6 +18,14 @@
     little expense regarding portability and security. This branch is not 
     currently in development.</li>
 </ul>
+<h3>How to use this application</h3>
+<p>Currently, this application is UNSTABLE, and under development. If you can
+  manage to download the source and get it working yourself, well then good job.
+  However, that's not something I recommend. When the application is finished,
+  it will most likely be available as a <em>github.io</em> app. I will update
+  this README when we have reached this milestone. Until then, please feel free
+  to contribute any opinions or advice you may have, and peruse our code.
+</p>
 <br/>
 <p><em>Disclaimer: Banweb Crawler aims to keep your information as secure as
     possible. We don't store your information, don't share your information with
