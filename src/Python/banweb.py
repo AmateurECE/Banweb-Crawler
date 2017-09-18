@@ -21,12 +21,15 @@ import http.cookiejar as cookiejar
 import requests
 from lxml import etree
 import re
+import audit
+import os
 
 ################################################################################
 # Classes
 ###
 
 class Banweb(object):
+    # TODO: insert a class PyDoc here--Google Style?
     """Interfaces with the Banweb Server to get web pages, etc:
     Datum:
         _ubase -- base URL
@@ -37,7 +40,19 @@ class Banweb(object):
     """
 
     def __init__(self):
-        """Initializes a Banweb Object"""
+        """
+        __init__:
+        Constructor for the Banweb class.
+
+        Args:
+        	None.
+
+        Returns:
+        	None.
+
+        Raises:
+        	None.
+        """
         self._ubase = 'https://www.banweb.mtu.edu/'
         self._ulogin = 'pls/owa/twbkwbis.P_ValLogin'
         self._uauditreq = 'pls/owa/mtu_degree_audit.p_request_audit_complete'
@@ -47,44 +62,86 @@ class Banweb(object):
 
 
     def login(self, name, pass_):
-        """Login to the Banweb server as a user"""
+        """
+        login:
+        Login to the Banweb server as a user
+
+        Args:
+        	name: The caller's Username
+                pass_: The User's password
+
+        Returns:
+        	None.
+
+        Raises:
+        	RuntimeError: In the event that Banweb returns a status code
+                    that is NOT 200.
+        """
         self._session = requests.Session()
         # Once to fill the cookie jar
         ret = self._session.post(self._ubase + "" + self._ulogin,
                                  data={'sid':name, 'PIN':pass_})
+        if ret.status_code != 200:
+            raise RuntimeError('Post returned error code: ' + ret.status_code)
+
         # Once to log in.
         ret = self._session.post(self._ubase + "" + self._ulogin,
                                  data={'sid':name, 'PIN':pass_})
+        if ret.status_code != 200:
+            raise RuntimeError('Post returned error code: ' + ret.status_code)
 
-    def get_audit(self): # Eventually add options for 'List All Requirements'
-        """Request a degree audit from the Banweb Server."""
+    def getaudit(self): # TODO: add options for 'List All Requirements'
+        """
+        getaudit:
+        Request a degree audit from the Banweb Server.
+
+        Args:
+        	None.
+
+        Returns:
+        	Audit obj: An Audit object initialized with the data retrieved.
+
+        Raises:
+        	RuntimeError: In the event that the server returns an error.
+                RuntimeError: Error parsing the degree audit.
+                OSError: In the event that a file operation is not supported.
+        """
         print('Waiting on Banweb to run an audit...')
-        ret = self._session.post(self._ubase + "" + self._uauditreq,
+        ret = self._session.post(self._ubase + '' + self._uauditreq,
                                  data={'fdgrog': '', 'audit_switch': 'N'})
+        if ret.status_code != 200:
+            raise RuntimeError('Banweb server returned error code: '
+                               + ret.status_code)
+
         root = etree.HTML(ret.text)
+        degaudit = None
         for element in root.iter():
             if element.get('class') == 'pagebodydiv':
                 for child in element.iter():
                     if child.tag == 'a' and \
                        re.search('darwinia', child.get('href')):
-                        audit = child.get('href')
+                        degaudit = child.get('href')
                         break
 
-        if audit == None:
-            # TODO: Throw an exception here.
-            return
+        if degaudit == None:
+            raise RuntimeError('Error when parsing degree audit.')
 
-        audit = self._session.get(audit)
-        fh = open("degaudit.html", 'w')
-        fh.write(audit.text)
-        fh.close()
-        return True
+        degaudit = self._session.get(degaudit)
+        try:
+            fh = open('degaudit.html', 'w')
+            fh.write(degaudit.text)
+            fh.close()
+            degaudit = audit.Audit('degaudit.html')
+            # os.unlink('degaudit.html') # TODO: Uncomment this.
+            return degaudit
+        except OSError as e:
+            raise
 
 ################################################################################
 # Main
 ###
 
 if __name__ == '__main__':
-    print("hey, what's up?")
+    print('You\'re silly! This isn\'t a <em>real</em> module!')
 
 ################################################################################
