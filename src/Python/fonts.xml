@@ -1,0 +1,1069 @@
+<demfonts><font>
+          <span>
+            <table border="0" cellspacing="1" cellpadding="1">
+              <tr>
+                <td>
+                  <div onclick="toggleDisplay(this);" style="cursor: hand;" onkeypress="toggleDisplay(this);">
+                    <table border="0" cellspacing="1" cellpadding="1">
+                      <tr>
+                        <td valign="top">
+                          <img src="./skins/arrow_sq.gif" border="0" alt="Triangle pointing right."/>
+                        </td>
+                        <td valign="top">
+                          <img src="./skins/mtudefault/requirementStatus_NONE.gif" title="" alt=""/>
+                        </td>
+                        <td>
+                          
+                          <pre/>
+                          
+                          
+                            <span class="auditLineType_10_okRequirementTitle"/><br/>
+                          
+                            <span class="auditLineType_10_okRequirementTitle">       This audit is provided for information and</span><br/>
+                          
+                            <span class="auditLineType_10_okRequirementTitle">       advisement only. Every effort has been made to ensure</span><br/>
+                          
+                            <span class="auditLineType_10_okRequirementTitle">       its accuracy. Any apparent discrepancies should be</span><br/>
+                          
+                            <span class="auditLineType_10_okRequirementTitle">       discussed with your academic advisor. For an offical</span><br/>
+                          
+                            <span class="auditLineType_10_okRequirementTitle">       record of your academic course work, please obtain</span><br/>
+                          
+                            <span class="auditLineType_10_okRequirementTitle">       a copy of an offical transcript. Final confirmation</span><br/>
+                          
+                            <span class="auditLineType_10_okRequirementTitle">       of degree requirements is subject to the department</span><br/>
+                          
+                            <span class="auditLineType_10_okRequirementTitle">       and University approval.</span><br/>
+                          
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div id="requirement" style="cursor: hand;">
+                    <table border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>
+                          
+                          <pre>
+                            
+                          </pre>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </span>
+        </font>
+		
+		<font>
+          <span>
+            <table border="0" cellspacing="1" cellpadding="1">
+              <tr>
+                <td>
+                  <div onclick="toggleDisplay(this);" style="cursor: hand;" onkeypress="toggleDisplay(this);">
+                    <table border="0" cellspacing="1" cellpadding="1">
+                      <tr>
+                        <td valign="top">
+                          <img src="./skins/arrow_sq.gif" border="0" alt="Triangle pointing right."/>
+                        </td>
+                        <td valign="top">
+                          <img src="./skins/mtudefault/requirementStatus_IP.gif" title="This requirement is currently in progress" alt="This requirement is currently in progress"/>
+                        </td>
+                        <td>
+                          
+                          <pre/>
+                          
+                          
+                            <span class="auditLineType_10_okRequirementTitle">     Cumulative Grade Point Average must be 2.0 or above</span><br/>
+                          
+                            <span class="auditLineType_10_okRequirementTitle">       to graduate.</span><br/>
+                          
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div id="requirement" style="cursor: hand;">
+                    <table border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>
+                          
+                          <pre>
+                            
+<span class="auditLineType_12_okRequirementEarnedLine"> IP Earned                                            2.97 GPA</span>
+                          </pre>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </span>
+        </font>
+		
+		<font>
+          <span>
+            <table border="0" cellspacing="1" cellpadding="1">
+              <tr>
+                <td>
+                  <div onclick="toggleDisplay(this);" style="cursor: hand;" onkeypress="toggleDisplay(this);">
+                    <table border="0" cellspacing="1" cellpadding="1">
+                      <tr>
+                        <td valign="top">
+                          <img src="./skins/arrow_sq.gif" border="0" alt="Triangle pointing right."/>
+                        </td>
+                        <td valign="top">
+                          <img src="./skins/mtudefault/requirementStatus_NO.gif" title="This requirement has NOT yet been completed" alt="This requirement has NOT yet been completed"/>
+                        </td>
+                        <td>
+                          
+                          <pre/>
+                          
+                          
+                            <span class="auditLineType_11_noRequirementTitle">     Computer Engineering</span><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle">       Major Requirements - 87 credits</span><br/>
+                          
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div id="requirement" style="cursor: hand;">
+                    <table border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>
+                          
+                          <pre>
+                            
+<span class="auditLineType_13_noRequirementEarnedLine">    Earned  55.0 credits             2 sub-reqs</span>
+<span class="auditLineType_15_noRequirementNeedsLine">    Needs:                            1 sub-req</span>
+<span class="auditLineType_09_blankLine"/>
+<span class="auditLineType_17_noSubrequirementTLine">  -  1) <b>Required Courses: 81 credits</b></span>
+<span class="null">          Exception: Sub CS1142 for CS1141</span>
+<span class="auditLineType_21_noSubrequirementEarnedLine">           48.0 credits added 17 Sets Completed</span>
+<span class="auditLineType_23_noSubrequirementCourses">      Fa16 CS  1121        3.0 B    Intro to Programming I</span>
+<span class="auditLineType_23_noSubrequirementCourses">      Sp17 CS  1122        3.0 B    Intro to Programming II</span>
+<span class="auditLineType_23_noSubrequirementCourses">      Sp17 CS  2311        3.0 B    Discrete Structures</span>
+<span class="auditLineType_23_noSubrequirementCourses">      Fa16 EE  1110        1.0 S    Essential Math for EE</span>
+<span class="auditLineType_23_noSubrequirementCourses">      Fa16 EE  1111        1.0 A    ECE 1.0</span>
+<span class="auditLineType_23_noSubrequirementCourses">      Fa16 EE  2111        3.0 A    Electric Circuits I</span>
+<span class="auditLineType_23_noSubrequirementCourses">      Sp17 EE  2112        4.0 AB   Electric Circuits II and Lab</span>
+<span class="auditLineType_23_noSubrequirementCourses">      Fa16 EE  2174        4.0 AB   Digital Logic and Lab</span>
+<span class="auditLineType_23_noSubrequirementCourses">      Fa15 ENG 1101        3.0 B    Engrg Analysis &amp; Prob Solving</span>
+<span class="auditLineType_23_noSubrequirementCourses">      Fa15 MA  1160        4.0 CR   Calculus with Technology I</span>
+<span class="auditLineType_23_noSubrequirementCourses">      Fa15 MA  2160        4.0 TR   Calculus with Technology II</span>
+<span class="auditLineType_23_noSubrequirementCourses">      Fa15 MA  2320        2.0 BC   Elementary Linear Algebra</span>
+<span class="auditLineType_23_noSubrequirementCourses">      Sp16 MA  3520        2.0 BC   Elem Differential Equations</span>
+<span class="auditLineType_23_noSubrequirementCourses">      Sp17 MA  3710        3.0 BC   Engineering Statistics</span>
+<span class="auditLineType_23_noSubrequirementCourses">      Fa15 PH  1100        1.0 A    Physics by Inquiry I</span>
+<span class="auditLineType_23_noSubrequirementCourses">      Sp16 PH  1200        1.0 A    Physics by Inquiry II</span>
+<span class="auditLineType_23_noSubrequirementCourses">      Fa15 PH  2100        3.0 C    Univ Physics I-Mechanics</span>
+<span class="auditLineType_23_noSubrequirementCourses">      Sp16 PH  2200        3.0 C    Univ Physics II-Elec &amp; Magnet</span>
+<span class="auditLineType_25_noSubrequirementNeedsSummaryLine">         Needs:   34.0 credits 11 SETS</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">        Course list: <a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=1142&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  1142</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=2321&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  2321</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=3331&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  3331</a> or <a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=3160&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  3160</a>  <a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=3411&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  3411</a>,</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=3421&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  3421</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=4321&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  4321</a>  <a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=3131&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  3131</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=3173&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  3173</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=3901&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  3901</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=4173&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  4173</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=4272&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  4272</a></span>
+<span class="auditLineType_09_blankLine"/>
+<span class="auditLineType_16_okSubrequirementTLine">  +  2) <b>The 2nd discipline science course is complete</b></span>
+<span class="auditLineType_20_okSubrequirementEarnedLine">            3.0 credits added  0 Sets Completed</span>
+<span class="auditLineType_22_okSubrequirementCourses">      Fa15 CH  1150        3.0 BC   University Chemistry I</span>
+<span class="auditLineType_09_blankLine"/>
+<span class="auditLineType_16_okSubrequirementTLine">  +  3) <b>The math/science elective is complete</b></span>
+<span class="auditLineType_20_okSubrequirementEarnedLine">            4.0 credits added  1 course taken</span>
+<span class="auditLineType_22_okSubrequirementCourses">      Fa15 MA  3160        4.0 TR   Multivariable Calc with Tech</span>
+                          </pre>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </span>
+        </font>
+		
+		<font>
+          <span>
+            <table border="0" cellspacing="1" cellpadding="1">
+              <tr>
+                <td>
+                  <div onclick="toggleDisplay(this);" style="cursor: hand;" onkeypress="toggleDisplay(this);">
+                    <table border="0" cellspacing="1" cellpadding="1">
+                      <tr>
+                        <td valign="top">
+                          <img src="./skins/arrow_sq.gif" border="0" alt="Triangle pointing right."/>
+                        </td>
+                        <td valign="top">
+                          <img src="./skins/mtudefault/requirementStatus_NO.gif" title="This requirement has NOT yet been completed" alt="This requirement has NOT yet been completed"/>
+                        </td>
+                        <td>
+                          
+                          <pre/>
+                          
+                          
+                            <span class="auditLineType_11_noRequirementTitle">     Technical Electives - 6 credits</span><br/>
+                          
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div id="requirement" style="cursor: hand;">
+                    <table border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>
+                          
+                          <pre>
+                            
+<span class="auditLineType_15_noRequirementNeedsLine">    Needs:                            1 sub-req</span>
+<span class="auditLineType_09_blankLine"/>
+<span class="auditLineType_17_noSubrequirementTLine">  -  1) <b>Technical Electives - 6 credits required</b></span>
+<span class="auditLineType_17_noSubrequirementTLine">        Note: 7 credits are required if CS1131 is taken</span>
+<span class="auditLineType_25_noSubrequirementNeedsSummaryLine">         Needs:    6.0 credits</span>
+<span class="auditLineType_27_noSubrequirementRejectCourses">        Not allowed: <a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=4090&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  4090</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=4099&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  4099</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=4431&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  4431</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=4791&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  4791</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=4792&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  4792</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=5090&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  5090</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=5091&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  5091</a></span>
+<span class="auditLineType_27_noSubrequirementRejectCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=3171&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  3171</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=4000&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  4000</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=4800&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  4800</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=4805&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  4805</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=4870&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  4870</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=4994&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  4994</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=5290&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  5290</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=5975&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  5975</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=5990&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  5990</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=5991&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  5991</a>,</span>
+<span class="auditLineType_27_noSubrequirementRejectCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=5992&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  5992</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=6975&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  6975</a></span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">        Course list: <a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=3141&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  3141</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=3311&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  3311</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=3331&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  3331</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=4001&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  4001</a> to <a href="javascript:MM_openBrWindow('coursepreview?department=cs##&amp;number=4999&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS##4999</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=5000&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  5000</a> to</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=cs##&amp;number=5899&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS##5899</a>  <a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=3090&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  3090</a> to <a href="javascript:MM_openBrWindow('coursepreview?department=ee##&amp;number=4899&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE##4899</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=5000&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  5000</a> to <a href="javascript:MM_openBrWindow('coursepreview?department=ee##&amp;number=7999&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE##7999</a>  <a href="javascript:MM_openBrWindow('coursepreview?department=ma  &amp;number=3202&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">MA  3202</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ma  &amp;number=3203&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">MA  3203</a></span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=meem&amp;number=4705(1)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">MEEM4705(1)</a></span>
+                          </pre>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </span>
+        </font>
+		
+		<font>
+          <span>
+            <table border="0" cellspacing="1" cellpadding="1">
+              <tr>
+                <td>
+                  <div onclick="toggleDisplay(this);" style="cursor: hand;" onkeypress="toggleDisplay(this);">
+                    <table border="0" cellspacing="1" cellpadding="1">
+                      <tr>
+                        <td valign="top">
+                          <img src="./skins/arrow_sq.gif" border="0" alt="Triangle pointing right."/>
+                        </td>
+                        <td valign="top">
+                          <img src="./skins/mtudefault/requirementStatus_NO.gif" title="This requirement has NOT yet been completed" alt="This requirement has NOT yet been completed"/>
+                        </td>
+                        <td>
+                          
+                          <pre/>
+                          
+                          
+                            <span class="auditLineType_11_noRequirementTitle">     Computer Engineering Senior Design Path - 10 credits</span><br/>
+                          
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div id="requirement" style="cursor: hand;">
+                    <table border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>
+                          
+                          <pre>
+                            
+<span class="auditLineType_13_noRequirementEarnedLine">    Earned   3.0 credits             0 sub-reqs</span>
+<span class="auditLineType_15_noRequirementNeedsLine">    Needs:                            2 sub-reqs</span>
+<span class="auditLineType_09_blankLine"/>
+<span class="auditLineType_17_noSubrequirementTLine">  -  1) Required Courses - four (4) credits</span>
+<span class="auditLineType_17_noSubrequirementTLine"/>
+<span class="auditLineType_17_noSubrequirementTLine">        Select (EE4901 and EE4910) or (MEEM4901 and MEEM4911)</span>
+<span class="auditLineType_17_noSubrequirementTLine"/>
+<span class="auditLineType_25_noSubrequirementNeedsSummaryLine">         Needs:    4.0 credits</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">        Course list: <a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=4901&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  4901</a> &amp; <a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=4910&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  4910</a>  <a href="javascript:MM_openBrWindow('coursepreview?department=meem&amp;number=4901&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">MEEM4901</a> &amp; <a href="javascript:MM_openBrWindow('coursepreview?department=meem&amp;number=4911&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">MEEM4911</a></span>
+<span class="auditLineType_09_blankLine"/>
+<span class="auditLineType_17_noSubrequirementTLine">  -  2) Additional Technical Electives: 6 credits required from</span>
+<span class="auditLineType_17_noSubrequirementTLine">        the course list below. ENG1102 (if taken w/FY program),</span>
+<span class="auditLineType_17_noSubrequirementTLine">        UN3002 (up to 4 credits maximum).</span>
+<span class="null">          Exception: Add ENG1102</span>
+<span class="auditLineType_21_noSubrequirementEarnedLine">            3.0 credits added  1 course taken</span>
+<span class="auditLineType_23_noSubrequirementCourses">      Sp16 ENG 1102        3.0 AB   Engrg Modeling &amp; Design</span>
+<span class="auditLineType_25_noSubrequirementNeedsSummaryLine">         Needs:    3.0 credits</span>
+<span class="auditLineType_27_noSubrequirementRejectCourses">        Not allowed: <a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=4090&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  4090</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=4099&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  4099</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=4431&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  4431</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=4791&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  4791</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=4792&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  4792</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=5090&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  5090</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=5091&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  5091</a></span>
+<span class="auditLineType_27_noSubrequirementRejectCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=3171&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  3171</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=4000&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  4000</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=4800&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  4800</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=4805&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  4805</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=4870&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  4870</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=5290&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  5290</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=5975&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  5975</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=5990&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  5990</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=5991&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  5991</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=5992&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  5992</a>,</span>
+<span class="auditLineType_27_noSubrequirementRejectCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=4994&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  4994</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=6975&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  6975</a></span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">        Course list: <a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=3141&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  3141</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=3311&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  3311</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=3331&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  3331</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=4001&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  4001</a> to <a href="javascript:MM_openBrWindow('coursepreview?department=cs##&amp;number=4999&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS##4999</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=5000&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  5000</a> to</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=cs##&amp;number=5899&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS##5899</a>  <a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=3090&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  3090</a> to <a href="javascript:MM_openBrWindow('coursepreview?department=ee##&amp;number=4899&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE##4899</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=5000&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  5000</a> to <a href="javascript:MM_openBrWindow('coursepreview?department=ee##&amp;number=7999&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE##7999</a>  <a href="javascript:MM_openBrWindow('coursepreview?department=ma  &amp;number=3202&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">MA  3202</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ma  &amp;number=3203&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">MA  3203</a></span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=meem&amp;number=4705&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">MEEM4705</a></span>
+                          </pre>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </span>
+        </font>
+		
+		<font>
+          <span>
+            <table border="0" cellspacing="1" cellpadding="1">
+              <tr>
+                <td>
+                  <div onclick="toggleDisplay(this);" style="cursor: hand;" onkeypress="toggleDisplay(this);">
+                    <table border="0" cellspacing="1" cellpadding="1">
+                      <tr>
+                        <td valign="top">
+                          <img src="./skins/arrow_sq.gif" border="0" alt="Triangle pointing right."/>
+                        </td>
+                        <td valign="top">
+                          <img src="./skins/mtudefault/requirementStatus_NO.gif" title="This requirement has NOT yet been completed" alt="This requirement has NOT yet been completed"/>
+                        </td>
+                        <td>
+                          
+                          <pre/>
+                          
+                          
+                            <span class="auditLineType_11_noRequirementTitle"> OR  Computer Engineering Enterprise Design Path - 10 credits</span><br/>
+                          
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div id="requirement" style="cursor: hand;">
+                    <table border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>
+                          
+                          <pre>
+                            
+<span class="auditLineType_13_noRequirementEarnedLine">    Earned   3.0 credits             0 sub-reqs</span>
+<span class="auditLineType_15_noRequirementNeedsLine">    Needs:                            2 sub-reqs</span>
+<span class="auditLineType_09_blankLine"/>
+<span class="auditLineType_17_noSubrequirementTLine">  -  1) <b>Required Courses: 6 credits</b></span>
+<span class="auditLineType_25_noSubrequirementNeedsSummaryLine">         Needs:    6.0 credits</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">        Course list: <a href="javascript:MM_openBrWindow('coursepreview?department=ent &amp;number=3960&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">ENT 3960</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ent &amp;number=4950&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">ENT 4950</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ent &amp;number=4960&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">ENT 4960</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ent &amp;number=3950&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">ENT 3950</a> or <a href="javascript:MM_openBrWindow('coursepreview?department=ent &amp;number=3958&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">ENT 3958</a> or <a href="javascript:MM_openBrWindow('coursepreview?department=ent &amp;number=3959&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">ENT 3959</a> or</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=ent &amp;number=2961&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">ENT 2961</a> or <a href="javascript:MM_openBrWindow('coursepreview?department=ent &amp;number=2962&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">ENT 2962</a> or <a href="javascript:MM_openBrWindow('coursepreview?department=ent &amp;number=3963&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">ENT 3963</a> or <a href="javascript:MM_openBrWindow('coursepreview?department=ent &amp;number=3964&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">ENT 3964</a> or <a href="javascript:MM_openBrWindow('coursepreview?department=ent &amp;number=3966&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">ENT 3966</a> or <a href="javascript:MM_openBrWindow('coursepreview?department=ent &amp;number=3967&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">ENT 3967</a> or</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=ent &amp;number=3971&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">ENT 3971</a> or <a href="javascript:MM_openBrWindow('coursepreview?department=ent &amp;number=3972&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">ENT 3972</a> or <a href="javascript:MM_openBrWindow('coursepreview?department=ent &amp;number=4951&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">ENT 4951</a></span>
+<span class="auditLineType_09_blankLine"/>
+<span class="auditLineType_17_noSubrequirementTLine">  -  2) <b>Add'l Technical Electives: 4 credits required</b></span>
+<span class="auditLineType_17_noSubrequirementTLine">        Choose from the course list below. ENG1102 (if taken</span>
+<span class="auditLineType_17_noSubrequirementTLine">        w/FY program), UN3002 (up to 4 credits maximum).</span>
+<span class="null">          Exception: Add ENG1102</span>
+<span class="auditLineType_21_noSubrequirementEarnedLine">            3.0 credits added  1 course taken</span>
+<span class="auditLineType_23_noSubrequirementCourses">      Sp16 ENG 1102        3.0 AB   Engrg Modeling &amp; Design</span>
+<span class="auditLineType_25_noSubrequirementNeedsSummaryLine">         Needs:    1.0 credit</span>
+<span class="auditLineType_27_noSubrequirementRejectCourses">        Not allowed: <a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=4090&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  4090</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=4099&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  4099</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=4431&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  4431</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=4791&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  4791</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=4792&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  4792</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=5090&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  5090</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=5091&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  5091</a></span>
+<span class="auditLineType_27_noSubrequirementRejectCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=3171&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  3171</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=4000&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  4000</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=4800&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  4800</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=4805&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  4805</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=4870&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  4870</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=5290&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  5290</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=5975&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  5975</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=5990&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  5990</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=5991&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  5991</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=5992&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  5992</a>,</span>
+<span class="auditLineType_27_noSubrequirementRejectCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=4994&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  4994</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=6975&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  6975</a></span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">        Course list: <a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=3141&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  3141</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=3311&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  3311</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=3331&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  3331</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=4001&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  4001</a> to <a href="javascript:MM_openBrWindow('coursepreview?department=cs##&amp;number=4999&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS##4999</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=5000&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  5000</a> to</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=cs##&amp;number=5899&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS##5899</a>  <a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=3090&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  3090</a> to <a href="javascript:MM_openBrWindow('coursepreview?department=ee##&amp;number=4899&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE##4899</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=5000&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  5000</a> to <a href="javascript:MM_openBrWindow('coursepreview?department=ee##&amp;number=7999&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE##7999</a>  <a href="javascript:MM_openBrWindow('coursepreview?department=ma  &amp;number=3202&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">MA  3202</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ma  &amp;number=3203&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">MA  3203</a></span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=meem&amp;number=4705&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">MEEM4705</a></span>
+                          </pre>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </span>
+        </font>
+		
+		<font>
+          <span>
+            <table border="0" cellspacing="1" cellpadding="1">
+              <tr>
+                <td>
+                  <div onclick="toggleDisplay(this);" style="cursor: hand;" onkeypress="toggleDisplay(this);">
+                    <table border="0" cellspacing="1" cellpadding="1">
+                      <tr>
+                        <td valign="top">
+                          <img src="./skins/arrow_sq.gif" border="0" alt="Triangle pointing right."/>
+                        </td>
+                        <td valign="top">
+                          <img src="./skins/mtudefault/requirementStatus_NO.gif" title="This requirement has NOT yet been completed" alt="This requirement has NOT yet been completed"/>
+                        </td>
+                        <td>
+                          
+                          <pre/>
+                          
+                          
+                            <span class="auditLineType_11_noRequirementTitle">     General Education Requirement: Core</span><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle"/><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle">       Complete 3 credits from each sub-requirement below for</span><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle">       a total of 12 GenEd Core credits.</span><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle"/><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle">       NOTE:</span><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle">       Each course may satisfy only one requirement.</span><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle">       Courses used to satisfy GenEd requirements may not be used</span><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle">       to complete other requirements.</span><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle"/><br/>
+                          
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div id="requirement" style="cursor: hand;">
+                    <table border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>
+                          
+                          <pre>
+                            
+<span class="auditLineType_13_noRequirementEarnedLine">    Earned   6.0 credits             2 sub-reqs</span>
+<span class="auditLineType_15_noRequirementNeedsLine">    Needs:                            2 sub-reqs</span>
+<span class="auditLineType_09_blankLine"/>
+<span class="auditLineType_16_okSubrequirementTLine">  +  1) <b>Composition (UN1015) is complete</b></span>
+<span class="auditLineType_20_okSubrequirementEarnedLine">            3.0 credits added  1 course taken</span>
+<span class="auditLineType_22_okSubrequirementCourses">      Fa15 UN  1015        3.0 CR   Composition</span>
+<span class="auditLineType_09_blankLine"/>
+<span class="auditLineType_16_okSubrequirementTLine">  +  2) <b>Upper division language requirement is complete</b></span>
+<span class="auditLineType_20_okSubrequirementEarnedLine">            3.0 credits added  1 course taken</span>
+<span class="auditLineType_22_okSubrequirementCourses">      Fa16 HU  3280        3.0 AB   Level I-C German Lang and Cul</span>
+<span class="auditLineType_09_blankLine"/>
+<span class="auditLineType_17_noSubrequirementTLine">  -  3) <b>Critical and Creative Thinking</b></span>
+<span class="auditLineType_25_noSubrequirementNeedsSummaryLine">         Needs:    3.0 credits</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">        Course list: <a href="javascript:MM_openBrWindow('coursepreview?department=fa  &amp;number=2330&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">FA  2330</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=fa  &amp;number=2520&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">FA  2520</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=fa  &amp;number=2720&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">FA  2720</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=fa  &amp;number=2820&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">FA  2820</a>  <a href="javascript:MM_openBrWindow('coursepreview?department=hu  &amp;number=2130&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">HU  2130</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=hu  &amp;number=2324&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">HU  2324</a>,</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=hu  &amp;number=2501&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">HU  2501</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=hu  &amp;number=2503&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">HU  2503</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=hu  &amp;number=2504(Fa15-Su16)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">HU  2504(Fa15-Su16)</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=hu  &amp;number=2538&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">HU  2538</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=hu  &amp;number=2700&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">HU  2700</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=hu  &amp;number=2820&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">HU  2820</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=hu  &amp;number=2910&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">HU  2910</a></span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=2300&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  2300</a>  <a href="javascript:MM_openBrWindow('coursepreview?department=ta  &amp;number=9004L&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">TA  9004L</a>  <a href="javascript:MM_openBrWindow('coursepreview?department=un  &amp;number=1001&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">UN  1001</a></span>
+<span class="auditLineType_09_blankLine"/>
+<span class="auditLineType_17_noSubrequirementTLine">  -  4) <b>Social Responsibility &amp; Ethical Reasoning</b></span>
+<span class="auditLineType_25_noSubrequirementNeedsSummaryLine">         Needs:    3.0 credits</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">        Course list: <a href="javascript:MM_openBrWindow('coursepreview?department=ec  &amp;number=2001&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EC  2001</a>  <a href="javascript:MM_openBrWindow('coursepreview?department=ed  &amp;number=2000&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">ED  2000</a>  <a href="javascript:MM_openBrWindow('coursepreview?department=psy &amp;number=2000&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PSY 2000</a>  <a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=2100&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  2100</a>,</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=2200&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  2200</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=2400&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  2400</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=2500&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  2500</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=2501&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  2501</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=2502&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  2502</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=2503&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  2503</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=2504&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  2504</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=2505&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  2505</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=2600&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  2600</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=2610&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  2610</a>,</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=2700&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  2700</a>  <a href="javascript:MM_openBrWindow('coursepreview?department=ta  &amp;number=9008L&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">TA  9008L</a>  <a href="javascript:MM_openBrWindow('coursepreview?department=un  &amp;number=2002&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">UN  2002</a></span>
+                          </pre>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </span>
+        </font>
+		
+		<font>
+          <span>
+            <table border="0" cellspacing="1" cellpadding="1">
+              <tr>
+                <td>
+                  <div onclick="toggleDisplay(this);" style="cursor: hand;" onkeypress="toggleDisplay(this);">
+                    <table border="0" cellspacing="1" cellpadding="1">
+                      <tr>
+                        <td valign="top">
+                          <img src="./skins/arrow_sq.gif" border="0" alt="Triangle pointing right."/>
+                        </td>
+                        <td valign="top">
+                          <img src="./skins/mtudefault/requirementStatus_NO.gif" title="This requirement has NOT yet been completed" alt="This requirement has NOT yet been completed"/>
+                        </td>
+                        <td>
+                          
+                          <pre/>
+                          
+                          
+                            <span class="auditLineType_11_noRequirementTitle">     General Education Requirement: Humanities, Fine Arts</span><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle">       Social and Behavioral Science (HASS)</span><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle"/><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle">       Complete 3 credits from each sub-requirement below for</span><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle">       a total of 12 GenEd HASS credits.</span><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle"/><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle">       NOTE:</span><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle">       Each course may satisfy only one requirement.</span><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle">       At least 6 credits must be upper division (3000-4000)</span><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle">       level course work.</span><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle">       Repeatable courses may not be repeated for General</span><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle">       Education credit.</span><br/>
+                          
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div id="requirement" style="cursor: hand;">
+                    <table border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>
+                          
+                          <pre>
+                            
+<span class="auditLineType_13_noRequirementEarnedLine">    Earned   6.0 credits             2 sub-reqs</span>
+<span class="auditLineType_09_blankLine"/>
+<span class="auditLineType_17_noSubrequirementTLine">  -  1) <b>Communication/Composition</b></span>
+<span class="auditLineType_25_noSubrequirementNeedsSummaryLine">         Needs:    3.0 credits</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">        Course list: <a href="javascript:MM_openBrWindow('coursepreview?department=hu  &amp;number=2810&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">HU  2810</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=hu  &amp;number=2830&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">HU  2830</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=hu  &amp;number=3015&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">HU  3015</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=hu  &amp;number=3120&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">HU  3120</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=hu  &amp;number=3151&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">HU  3151</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=hu  &amp;number=3693&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">HU  3693</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=hu  &amp;number=3694&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">HU  3694</a>,</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=hu  &amp;number=3832&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">HU  3832</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=hu  &amp;number=4628&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">HU  4628</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=hu  &amp;number=4693(Fa15-Su16)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">HU  4693(Fa15-Su16)</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=hu  &amp;number=4694(Fa15-Su16)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">HU  4694(Fa15-Su16)</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=hu  &amp;number=9305L&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">HU  9305L</a>,</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=hu  &amp;number=9305U&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">HU  9305U</a>  <a href="javascript:MM_openBrWindow('coursepreview?department=ta  &amp;number=9005L&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">TA  9005L</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ta  &amp;number=9005U&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">TA  9005U</a></span>
+<span class="auditLineType_09_blankLine"/>
+<span class="auditLineType_16_okSubrequirementTLine">  +  2) <b>Humanities/Fine Arts is complete</b></span>
+<span class="auditLineType_20_okSubrequirementEarnedLine">            3.0 credits added  1 course taken</span>
+<span class="auditLineType_22_okSubrequirementCourses">      Fa15 HU  2281        3.0 CD   Lev I-A German Lang and Cult</span>
+<span class="auditLineType_09_blankLine"/>
+<span class="auditLineType_17_noSubrequirementTLine">  -  3) <b>Social and Behavioral Science</b></span>
+<span class="auditLineType_25_noSubrequirementNeedsSummaryLine">         Needs:    3.0 credits</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">        Course list: <a href="javascript:MM_openBrWindow('coursepreview?department=ec  &amp;number=2001&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EC  2001</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ec  &amp;number=3002&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EC  3002</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ec  &amp;number=3003&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EC  3003</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ec  &amp;number=3100&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EC  3100</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ec  &amp;number=3300&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EC  3300</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ec  &amp;number=3400&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EC  3400</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ec  &amp;number=4050&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EC  4050</a>,</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=ec  &amp;number=4400&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EC  4400</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ec  &amp;number=4500&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EC  4500</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ec  &amp;number=4620&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EC  4620</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ec  &amp;number=4630&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EC  4630</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ec  &amp;number=4640&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EC  4640</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ec  &amp;number=4650&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EC  4650</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ec  &amp;number=4710&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EC  4710</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ec  &amp;number=9300L&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EC  9300L</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ec  &amp;number=9300U&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EC  9300U</a></span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=ed  &amp;number=2000&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">ED  2000</a>  <a href="javascript:MM_openBrWindow('coursepreview?department=fw  &amp;number=3313&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">FW  3313</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=fw  &amp;number=3760&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">FW  3760</a>  <a href="javascript:MM_openBrWindow('coursepreview?department=ge  &amp;number=4630&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">GE  4630</a>  <a href="javascript:MM_openBrWindow('coursepreview?department=is  &amp;number=2002&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">IS  2002</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=is  &amp;number=3002&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">IS  3002</a></span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=mgt &amp;number=3650&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">MGT 3650</a>  <a href="javascript:MM_openBrWindow('coursepreview?department=psy &amp;number=2000&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PSY 2000</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=psy &amp;number=2300&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PSY 2300</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=psy &amp;number=2400&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PSY 2400</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=psy &amp;number=2600&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PSY 2600</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=psy &amp;number=3010&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PSY 3010</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=psy &amp;number=3020&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PSY 3020</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=psy &amp;number=3030&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PSY 3030</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=psy &amp;number=3070&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PSY 3070</a>,</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=psy &amp;number=3720&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PSY 3720</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=psy &amp;number=9300L&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PSY 9300L</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=psy &amp;number=9300U&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PSY 9300U</a>  <a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=2100&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  2100</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=2200&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  2200</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=2210&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  2210</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=2300&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  2300</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=2400&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  2400</a>,</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=2500&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  2500</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=2501&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  2501</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=2502&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  2502</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=2503&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  2503</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=2504&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  2504</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=2505&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  2505</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=2510&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  2510</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=2600&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  2600</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=2601&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  2601</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=2610&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  2610</a>,</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=2635&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  2635</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=2700&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  2700</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3105&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3105</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3110&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3110</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3200&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3200</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3210&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3210</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3220&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3220</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3230&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3230</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3240&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3240</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3250&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3250</a>,</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3260&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3260</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3270&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3270</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3300&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3300</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3313&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3313</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3315&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3315</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3400&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3400</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3410&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3410</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3500&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3500</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3505&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3505</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3510&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3510</a>,</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3511&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3511</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3512&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3512</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3513&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3513</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3515&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3515</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3520&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3520</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3521&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3521</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3530&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3530</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3540&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3540</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3541&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3541</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3552&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3552</a>,</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3553&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3553</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3560&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3560</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3561&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3561</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3570&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3570</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3580&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3580</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3581&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3581</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3600&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3600</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3610&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3610</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3612&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3612</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3621&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3621</a>,</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3630&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3630</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3635&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3635</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3636&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3636</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3640&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3640</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3650&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3650</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3660&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3660</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3661&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3661</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3665&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3665</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3700&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3700</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3710&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3710</a>,</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3750&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3750</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3760&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3760</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3800&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3800</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3801&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3801</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3811&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3811</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3815&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3815</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3820&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3820</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3910&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3910</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3920&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3920</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3950&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3950</a>,</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3951&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3951</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3952&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3952</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3960&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3960</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3961&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3961</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=3990&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  3990</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=4001&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  4001</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=4100&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  4100</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=4200&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  4200</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=4210&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  4210</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=4220&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  4220</a>,</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=4390&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  4390</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=4700&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  4700</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=4961&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  4961</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=9300L&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  9300L</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ss  &amp;number=9300U&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">SS  9300U</a></span>
+<span class="auditLineType_09_blankLine"/>
+<span class="auditLineType_16_okSubrequirementTLine">  +  4) <b>Additional Gen Ed course work is complete</b></span>
+<span class="auditLineType_20_okSubrequirementEarnedLine">            3.0 credits added  1 course taken</span>
+<span class="auditLineType_22_okSubrequirementCourses">      Sp17 HU  3281        3.0 A    Lev II-A German Lang and Cult</span>
+                          </pre>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </span>
+        </font>
+		
+		<font>
+          <span>
+            <table border="0" cellspacing="1" cellpadding="1">
+              <tr>
+                <td>
+                  <div onclick="toggleDisplay(this);" style="cursor: hand;" onkeypress="toggleDisplay(this);">
+                    <table border="0" cellspacing="1" cellpadding="1">
+                      <tr>
+                        <td valign="top">
+                          <img src="./skins/arrow_sq.gif" border="0" alt="Triangle pointing right."/>
+                        </td>
+                        <td valign="top">
+                          <img src="./skins/mtudefault/requirementStatus_NO.gif" title="This requirement has NOT yet been completed" alt="This requirement has NOT yet been completed"/>
+                        </td>
+                        <td>
+                          
+                          <pre/>
+                          
+                          
+                            <span class="auditLineType_11_noRequirementTitle">     General Education Upper Division 3000-Level Check</span><br/>
+                          
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div id="requirement" style="cursor: hand;">
+                    <table border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>
+                          
+                          <pre>
+                            
+<span class="auditLineType_13_noRequirementEarnedLine">    Earned   3.0 credits             0 sub-reqs</span>
+<span class="auditLineType_15_noRequirementNeedsLine">    Needs:                            1 sub-req</span>
+<span class="auditLineType_09_blankLine"/>
+<span class="auditLineType_17_noSubrequirementTLine">  -  1) <b>General Education Upper Division Check</b></span>
+<span class="auditLineType_17_noSubrequirementTLine">        6 credits of HASS course work, taken above, must</span>
+<span class="auditLineType_17_noSubrequirementTLine">        be at the 3000-level or higher. This section of the</span>
+<span class="auditLineType_17_noSubrequirementTLine">        degree audit checks to ensure upper division courses</span>
+<span class="auditLineType_17_noSubrequirementTLine">        are completed.</span>
+<span class="auditLineType_21_noSubrequirementEarnedLine">            3.0 credits added  1 course taken</span>
+<span class="auditLineType_23_noSubrequirementCourses">      Sp17 HU  3281        3.0 A    Lev II-A German Lang and Cult</span>
+<span class="auditLineType_25_noSubrequirementNeedsSummaryLine">         Needs:    3.0 credits</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">        Course list: <a href="javascript:MM_openBrWindow('coursepreview?department=&amp;number=&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">****</a></span>
+                          </pre>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </span>
+        </font>
+		
+		<font>
+          <span>
+            <table border="0" cellspacing="1" cellpadding="1">
+              <tr>
+                <td>
+                  <div onclick="toggleDisplay(this);" style="cursor: hand;" onkeypress="toggleDisplay(this);">
+                    <table border="0" cellspacing="1" cellpadding="1">
+                      <tr>
+                        <td valign="top">
+                          <img src="./skins/arrow_sq.gif" border="0" alt="Triangle pointing right."/>
+                        </td>
+                        <td valign="top">
+                          <img src="./skins/mtudefault/requirementStatus_NO.gif" title="This requirement has NOT yet been completed" alt="This requirement has NOT yet been completed"/>
+                        </td>
+                        <td>
+                          
+                          <pre/>
+                          
+                          
+                            <span class="auditLineType_11_noRequirementTitle">     Co-curricular Course Requirement - 3 credits</span><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle">       Note: Co-curricular courses are required for graduation,</span><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle">       but not included in the calculation of GPA's or credit</span><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle">       requirements for degrees.</span><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle"/><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle">       *Repeatable courses may not be repeated for co-curricular</span><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle">       general education credit except for PE0210, Special</span><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle">       Topics and PE0425, Intramurals. These courses may be used</span><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle">       twice (for a total of 1 credit each) toward the</span><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle">       co-curricular requirement.</span><br/>
+                          
+                            <span class="auditLineType_11_noRequirementTitle"/><br/>
+                          
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div id="requirement" style="cursor: hand;">
+                    <table border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>
+                          
+                          <pre>
+                            
+<span class="auditLineType_13_noRequirementEarnedLine">    Earned   1.0 credit</span>
+<span class="auditLineType_15_noRequirementNeedsLine">    Needs:    2.0 credits</span>
+<span class="auditLineType_09_blankLine"/>
+<span class="auditLineType_16_okSubrequirementTLine">  *  1)</span>
+<span class="auditLineType_22_okSubrequirementCourses">      Sp17 FA  2400        1.0 S    Huskies Pep Band</span>
+<span class="auditLineType_28_okSubrequirementAcceptCourses">        Course list: <a href="javascript:MM_openBrWindow('coursepreview?department=af  &amp;number=0120&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">AF  0120</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=af  &amp;number=0130&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">AF  0130</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=af  &amp;number=0230&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">AF  0230</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=af  &amp;number=0340&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">AF  0340</a>  <a href="javascript:MM_openBrWindow('coursepreview?department=ar  &amp;number=0340&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">AR  0340</a>,</span>
+<span class="auditLineType_28_okSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=ar  &amp;number=2059(Fa01-Su06)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">AR  2059(Fa01-Su06)</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ar  &amp;number=2065(Fa03-Su06)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">AR  2065(Fa03-Su06)</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ar  &amp;number=2068&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">AR  2068</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ar  &amp;number=2069&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">AR  2069</a>,</span>
+<span class="auditLineType_28_okSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=ar  &amp;number=2075(Fa01-Su02)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">AR  2075(Fa01-Su02)</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ar  &amp;number=3013(Fa05-Su06)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">AR  3013(Fa05-Su06)</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ar  &amp;number=3014(Fa05-Su10)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">AR  3014(Fa05-Su10)</a>,</span>
+<span class="auditLineType_28_okSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=ar  &amp;number=3068&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">AR  3068</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ar  &amp;number=3069&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">AR  3069</a>  <a href="javascript:MM_openBrWindow('coursepreview?department=fa  &amp;number=2402&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">FA  2402</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=fa  &amp;number=2570&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">FA  2570</a>  <a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0100(Fa00-Su06)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0100(Fa00-Su06)</a>,</span>
+<span class="auditLineType_28_okSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0101&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0101</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0102(Fa06-Su10)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0102(Fa06-Su10)</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0103&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0103</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0104&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0104</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0105&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0105</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0106&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0106</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0107&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0107</a>,</span>
+<span class="auditLineType_28_okSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0108&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0108</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0109&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0109</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0110(Fa07-Su08)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0110(Fa07-Su08)</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0111(Fa05-Su06)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0111(Fa05-Su06)</a>,</span>
+<span class="auditLineType_28_okSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0112(Fa05-Su06)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0112(Fa05-Su06)</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0113&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0113</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0114&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0114</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0115&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0115</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0116&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0116</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0117&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0117</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0118&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0118</a>,</span>
+<span class="auditLineType_28_okSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0119&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0119</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0120&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0120</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0121&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0121</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0122&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0122</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0123&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0123</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0125&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0125</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0126&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0126</a>,</span>
+<span class="auditLineType_28_okSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0127(Fa00-Su16)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0127(Fa00-Su16)</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0130&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0130</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0132&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0132</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0134(Fa05-Su06)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0134(Fa05-Su06)</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0135&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0135</a>,</span>
+<span class="auditLineType_28_okSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0137&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0137</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0138&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0138</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0139&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0139</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0140&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0140</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0141(Fa00-Su02)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0141(Fa00-Su02)</a>,</span>
+<span class="auditLineType_28_okSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0143(Fa00-Su02)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0143(Fa00-Su02)</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0144(Fa00-Su02)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0144(Fa00-Su02)</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0145&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0145</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0146&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0146</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0148&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0148</a>,</span>
+<span class="auditLineType_28_okSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0150&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0150</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0151&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0151</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0152&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0152</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0153&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0153</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0155&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0155</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0156&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0156</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0165(Fa09-Su16)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0165(Fa09-Su16)</a>,</span>
+<span class="auditLineType_28_okSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0166&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0166</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0167&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0167</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0168&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0168</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0169&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0169</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0170&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0170</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0173(Fa00-Su14)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0173(Fa00-Su14)</a>,</span>
+<span class="auditLineType_28_okSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0174(Fa00-Su14)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0174(Fa00-Su14)</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0175&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0175</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0176&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0176</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0200&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0200</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0201(Fa10-Su13)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0201(Fa10-Su13)</a>,</span>
+<span class="auditLineType_28_okSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0205&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0205</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0206&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0206</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0209&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0209</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0210&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0210</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0210&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0210</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0211(Fa00-Su06)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0211(Fa00-Su06)</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0215&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0215</a>,</span>
+<span class="auditLineType_28_okSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0216&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0216</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0217&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0217</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0218&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0218</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0219&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0219</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0220&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0220</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0221&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0221</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0222(Fa05-Su16)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0222(Fa05-Su16)</a>,</span>
+<span class="auditLineType_28_okSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0223(Fa05-Su16)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0223(Fa05-Su16)</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0224(Fa05-Su16)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0224(Fa05-Su16)</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0225(Fa05-Su16)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0225(Fa05-Su16)</a>,</span>
+<span class="auditLineType_28_okSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0226&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0226</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0227(Fa00-Su16)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0227(Fa00-Su16)</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0230&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0230</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0232&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0232</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0234(Fa00-Su06)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0234(Fa00-Su06)</a>,</span>
+<span class="auditLineType_28_okSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0235&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0235</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0237&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0237</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0238&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0238</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0239&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0239</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0240&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0240</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0246&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0246</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0248&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0248</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0252&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0252</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0253&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0253</a>,</span>
+<span class="auditLineType_28_okSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0255(Fa05-Su06)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0255(Fa05-Su06)</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0256&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0256</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0266&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0266</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0267&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0267</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0268&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0268</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0270&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0270</a>,</span>
+<span class="auditLineType_28_okSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0300(Fa06-Su07)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0300(Fa06-Su07)</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0301(Fa06-Su10)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0301(Fa06-Su10)</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0306(Fa06-Su14)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0306(Fa06-Su14)</a>,</span>
+<span class="auditLineType_28_okSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0315&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0315</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0320&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0320</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0321&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0321</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0330&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0330</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0340&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0340</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0352&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0352</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0353&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0353</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0355&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0355</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0367&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0367</a>,</span>
+<span class="auditLineType_28_okSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0406(Fa11-Su16)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0406(Fa11-Su16)</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0415(Fa00-Su07)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0415(Fa00-Su07)</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0420&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0420</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0421&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0421</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0425&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0425</a>,</span>
+<span class="auditLineType_28_okSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0430&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0430</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0435&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0435</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=0450&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  0450</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=1470&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  1470</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=1580&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  1580</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=1690&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  1690</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=2000(Fa02-Su08)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  2000(Fa02-Su08)</a>,</span>
+<span class="auditLineType_28_okSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=2010&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  2010</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=2020&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  2020</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=2028&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  2028</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=2030&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  2030</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=2040&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  2040</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=2050&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  2050</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=2059(Fa01-Su02)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  2059(Fa01-Su02)</a>,</span>
+<span class="auditLineType_28_okSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=2068(Fa01-Su02)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  2068(Fa01-Su02)</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=2069(Fa01-Su02)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  2069(Fa01-Su02)</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=2080&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  2080</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=2090&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  2090</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=2130&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  2130</a>,</span>
+<span class="auditLineType_28_okSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=2140&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  2140</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=2150&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  2150</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=2230(Fa00-Su13)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  2230(Fa00-Su13)</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=pe  &amp;number=2240(Fa00-Su13)&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PE  2240(Fa00-Su13)</a></span>
+<span class="auditLineType_28_okSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=pea &amp;number=9006&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">PEA 9006</a></span>
+                          </pre>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </span>
+        </font>
+		
+		<font>
+          <span>
+            <table border="0" cellspacing="1" cellpadding="1">
+              <tr>
+                <td>
+                  <div onclick="toggleDisplay(this);" style="cursor: hand;" onkeypress="toggleDisplay(this);">
+                    <table border="0" cellspacing="1" cellpadding="1">
+                      <tr>
+                        <td valign="top">
+                          <img src="./skins/arrow_sq.gif" border="0" alt="Triangle pointing right."/>
+                        </td>
+                        <td valign="top">
+                          <img src="./skins/mtudefault/requirementStatus_NO.gif" title="This requirement has NOT yet been completed" alt="This requirement has NOT yet been completed"/>
+                        </td>
+                        <td>
+                          
+                          <pre/>
+                          
+                          
+                            <span class="auditLineType_11_noRequirementTitle">     Residency and Upper Division Course Work Requirement</span><br/>
+                          
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div id="requirement" style="cursor: hand;">
+                    <table border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>
+                          
+                          <pre>
+                            
+<span class="auditLineType_09_blankLine"/>
+<span class="auditLineType_16_okSubrequirementTLine">  +  1) Thirty (30) of the last 36 credit hours of academic</span>
+<span class="auditLineType_16_okSubrequirementTLine">        work to be applied to the degree must be completed at</span>
+<span class="auditLineType_16_okSubrequirementTLine">        Michigan Tech.</span>
+<span class="auditLineType_16_okSubrequirementTLine"/>
+<span class="auditLineType_09_blankLine"/>
+<span class="auditLineType_17_noSubrequirementTLine">  -  2) Thirty (30) semester credit hours of advanced level</span>
+<span class="auditLineType_17_noSubrequirementTLine">        course work (3000 level or higher) must be completed at</span>
+<span class="auditLineType_17_noSubrequirementTLine">        Michigan Tech.</span>
+<span class="auditLineType_21_noSubrequirementEarnedLine">           11.0 credits added  4 courses taken</span>
+<span class="auditLineType_25_noSubrequirementNeedsSummaryLine">         Needs:   19.0 credits</span>
+                          </pre>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </span>
+        </font>
+		
+		<font>
+          <span>
+            <table border="0" cellspacing="1" cellpadding="1">
+              <tr>
+                <td>
+                  <div onclick="toggleDisplay(this);" style="cursor: hand;" onkeypress="toggleDisplay(this);">
+                    <table border="0" cellspacing="1" cellpadding="1">
+                      <tr>
+                        <td valign="top">
+                          <img src="./skins/arrow_sq.gif" border="0" alt="Triangle pointing right."/>
+                        </td>
+                        <td valign="top">
+                          <img src="./skins/mtudefault/requirementStatus_NO.gif" title="This requirement has NOT yet been completed" alt="This requirement has NOT yet been completed"/>
+                        </td>
+                        <td>
+                          
+                          <pre/>
+                          
+                          
+                            <span class="auditLineType_11_noRequirementTitle">     Degree Program Credit Requirements - 128 Credits Required</span><br/>
+                          
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div id="requirement" style="cursor: hand;">
+                    <table border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>
+                          
+                          <pre>
+                            
+<span class="auditLineType_09_blankLine"/>
+<span class="auditLineType_17_noSubrequirementTLine">  -  1) Total credits required for your degree - 128</span>
+<span class="auditLineType_21_noSubrequirementEarnedLine">           70.0 credits added</span>
+<span class="auditLineType_25_noSubrequirementNeedsSummaryLine">         Needs:   58.0 credits</span>
+                          </pre>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </span>
+        </font>
+		
+		<font>
+          <span>
+            <table border="0" cellspacing="1" cellpadding="1">
+              <tr>
+                <td>
+                  <div onclick="toggleDisplay(this);" style="cursor: hand;" onkeypress="toggleDisplay(this);">
+                    <table border="0" cellspacing="1" cellpadding="1">
+                      <tr>
+                        <td valign="top">
+                          <img src="./skins/arrow_sq.gif" border="0" alt="Triangle pointing right."/>
+                        </td>
+                        <td valign="top">
+                          <img src="./skins/mtudefault/requirementStatus_NO.gif" title="This requirement has NOT yet been completed" alt="This requirement has NOT yet been completed"/>
+                        </td>
+                        <td>
+                          
+                          <pre>
+<span class="auditLineType_07_hText">                         MINOR IN GERMAN</span>
+<span class="auditLineType_07_hText"/>
+<span class="auditLineType_07_hText">-&gt; The University requires a cumulative GPA of 2.0 for courses</span>
+<span class="auditLineType_07_hText">   used in the minor.</span>
+<span class="auditLineType_07_hText">-&gt; Minors must include at least six (6) credit hours of 3000</span>
+<span class="auditLineType_07_hText">   level or higher courses which are free electives or not used</span>
+<span class="auditLineType_07_hText">   toward the student's major degree program.</span>
+<span class="auditLineType_07_hText">-&gt; Students may not take a minor with the same title as their</span>
+<span class="auditLineType_07_hText">   major or major concentration.</span>
+<span class="auditLineType_07_hText"/>
+<span class="auditLineType_07_hText"/></pre>
+                          
+                          
+                            <span class="auditLineType_11_noRequirementTitle">     German Minor Requirements - 18 credits</span><br/>
+                          
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div id="requirement" style="cursor: hand;">
+                    <table border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>
+                          
+                          <pre>
+                            
+<span class="auditLineType_13_noRequirementEarnedLine">    Earned   6.0 credits             0 sub-reqs       3.75 GPA</span>
+<span class="auditLineType_15_noRequirementNeedsLine">    Needs:   12.0 credits             4 sub-reqs       2.00 GPA</span>
+<span class="auditLineType_09_blankLine"/>
+<span class="auditLineType_17_noSubrequirementTLine">  -  1) Required Courses - 9 credits</span>
+<span class="auditLineType_17_noSubrequirementTLine"/>
+<span class="auditLineType_21_noSubrequirementEarnedLine">            6.0 credits added  2 courses taken</span>
+<span class="auditLineType_23_noSubrequirementCourses">      Fa16 HU  3280        3.0 AB   Level I-C German Lang and Cul</span>
+<span class="auditLineType_23_noSubrequirementCourses">      Sp17 HU  3281        3.0 A    Lev II-A German Lang and Cult</span>
+<span class="auditLineType_25_noSubrequirementNeedsSummaryLine">         Needs:    3.0 credits</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">        Course list: <a href="javascript:MM_openBrWindow('coursepreview?department=hu  &amp;number=3282&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">HU  3282</a></span>
+<span class="auditLineType_09_blankLine"/>
+<span class="auditLineType_17_noSubrequirementTLine">  -  2) Select six (6) Level II and Level III Elective credits</span>
+<span class="auditLineType_17_noSubrequirementTLine">        from the course list below:</span>
+<span class="auditLineType_25_noSubrequirementNeedsSummaryLine">         Needs:    6.0 credits</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">        Course list: <a href="javascript:MM_openBrWindow('coursepreview?department=hu  &amp;number=3283&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">HU  3283</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=hu  &amp;number=3284&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">HU  3284</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=hu  &amp;number=3285&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">HU  3285</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=hu  &amp;number=3263&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">HU  3263</a></span>
+<span class="auditLineType_09_blankLine"/>
+<span class="auditLineType_17_noSubrequirementTLine">  -  3) Select three (3) Modern Language Seminar credits from</span>
+<span class="auditLineType_17_noSubrequirementTLine">        the course list below:</span>
+<span class="auditLineType_25_noSubrequirementNeedsSummaryLine">         Needs:    3.0 credits</span>
+<span class="auditLineType_29_noSubrequirementAcceptCourses">        Course list: <a href="javascript:MM_openBrWindow('coursepreview?department=hu  &amp;number=4281&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">HU  4281</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=hu  &amp;number=4282&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">HU  4282</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=hu  &amp;number=4283&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">HU  4283</a></span>
+<span class="auditLineType_09_blankLine"/>
+<span class="auditLineType_17_noSubrequirementTLine">  -  4) Each minor must include at least six (6) credit hours</span>
+<span class="auditLineType_17_noSubrequirementTLine">        of 3000 level or higher courses which are not required</span>
+<span class="auditLineType_17_noSubrequirementTLine">        for a student's major degree program except as free</span>
+<span class="auditLineType_17_noSubrequirementTLine">        electives.</span>
+<span class="auditLineType_25_noSubrequirementNeedsSummaryLine">         Needs:    6.0 credits</span>
+                          </pre>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </span>
+        </font>
+		
+		<font>
+          <span>
+            <table border="0" cellspacing="1" cellpadding="1">
+              <tr>
+                <td>
+                  <div onclick="toggleDisplay(this);" style="cursor: hand;" onkeypress="toggleDisplay(this);">
+                    <table border="0" cellspacing="1" cellpadding="1">
+                      <tr>
+                        <td valign="top">
+                          <img src="./skins/arrow_sq.gif" border="0" alt="Triangle pointing right."/>
+                        </td>
+                        <td valign="top">
+                          <img src="./skins/mtudefault/requirementStatus_NO.gif" title="This requirement has NOT yet been completed" alt="This requirement has NOT yet been completed"/>
+                        </td>
+                        <td>
+                          
+                          <pre/>
+                          
+                          
+                            <span class="auditLineType_11_noRequirementTitle">     Repeated Courses:</span><br/>
+                          
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div id="requirement" style="cursor: hand;">
+                    <table border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>
+                          
+                          <pre>
+                            
+<span class="auditLineType_09_blankLine"/>
+<span class="auditLineType_16_okSubrequirementTLine">     1) All courses repeated by student:</span>
+<span class="auditLineType_16_okSubrequirementTLine"/>
+                          </pre>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </span>
+        </font>
+		
+		<font>
+          <span>
+            <table border="0" cellspacing="1" cellpadding="1">
+              <tr>
+                <td>
+                  <div onclick="toggleDisplay(this);" style="cursor: hand;" onkeypress="toggleDisplay(this);">
+                    <table border="0" cellspacing="1" cellpadding="1">
+                      <tr>
+                        <td valign="top">
+                          <img src="./skins/arrow_sq.gif" border="0" alt="Triangle pointing right."/>
+                        </td>
+                        <td valign="top">
+                          <img src="./skins/mtudefault/requirementStatus_NO.gif" title="This requirement has NOT yet been completed" alt="This requirement has NOT yet been completed"/>
+                        </td>
+                        <td>
+                          
+                          <pre/>
+                          
+                          
+                            <span class="auditLineType_11_noRequirementTitle">     Courses not used to complete degree requirements:</span><br/>
+                          
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div id="requirement" style="cursor: hand;">
+                    <table border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>
+                          
+                          <pre>
+                            
+<span class="auditLineType_09_blankLine"/>
+<span class="auditLineType_17_noSubrequirementTLine">IP   1) Undergraduate level courses available which may be</span>
+<span class="auditLineType_17_noSubrequirementTLine">        applicable toward degree requirements.</span>
+<span class="auditLineType_23_noSubrequirementCourses">      Sp16 CH  1160        3.0 C    University Chemistry II</span>
+<span class="auditLineType_23_noSubrequirementCourses">      Sp16 CH  1161        1.0 AB   University Chem Lab II</span>
+<span class="auditLineType_23_noSubrequirementCourses">      Fa15 ENG 1002        1.0 A    Intro to Spatial Visualizatio</span>
+<span class="auditLineType_23_noSubrequirementCourses">      Sp16 HU  2282        3.0 BC   Lev I-B German Lang and Cult</span>
+<span class="auditLineType_23_noSubrequirementCourses">      Fa17 UN  3002        2.0 RGIP Undergrad Co-op Education I</span>
+<span class="auditLineType_09_blankLine"/>
+<span class="auditLineType_17_noSubrequirementTLine">     2) Undergraduate level course work not eligible to be used</span>
+<span class="auditLineType_17_noSubrequirementTLine">        toward degree requirements:</span>
+<span class="auditLineType_17_noSubrequirementTLine"/>
+<span class="auditLineType_17_noSubrequirementTLine">        Reminder: 'I' grades must be made up by the close of</span>
+<span class="auditLineType_17_noSubrequirementTLine">        the next semester or the grade becomes a failure (F).</span>
+<span class="auditLineType_17_noSubrequirementTLine">        Incomplete grades at graduation are considered 'F'</span>
+<span class="auditLineType_17_noSubrequirementTLine">        grades in the final GPA.</span>
+<span class="auditLineType_17_noSubrequirementTLine"/>
+<span class="auditLineType_17_noSubrequirementTLine">        An 'X' grade becomes a failure (F) if it is not made up</span>
+<span class="auditLineType_17_noSubrequirementTLine">        by the close of the next semester. An 'X' grade is</span>
+<span class="auditLineType_17_noSubrequirementTLine">        computed into the GPA as an 'F'.</span>
+<span class="auditLineType_17_noSubrequirementTLine"/>
+<span class="auditLineType_09_blankLine"/>
+<span class="auditLineType_17_noSubrequirementTLine">     3) Graduate level courses taken by student that have been</span>
+<span class="auditLineType_17_noSubrequirementTLine">        applied to a graduate level transcript.</span>
+                          </pre>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </span>
+        </font>
+		
+		<font>
+          <span>
+            <table border="0" cellspacing="1" cellpadding="1">
+              <tr>
+                <td>
+                  <div onclick="toggleDisplay(this);" style="cursor: hand;" onkeypress="toggleDisplay(this);">
+                    <table border="0" cellspacing="1" cellpadding="1">
+                      <tr>
+                        <td valign="top">
+                          <img src="./skins/arrow_sq.gif" border="0" alt="Triangle pointing right."/>
+                        </td>
+                        <td valign="top">
+                          <img src="./skins/mtudefault/requirementStatus_NONE.gif" title="" alt=""/>
+                        </td>
+                        <td>
+                          
+                          <pre>
+<span class="auditLineType_07_hText">                  DEGREE AUDIT LEGEND</span>
+<span class="auditLineType_07_hText"/>
+<span class="auditLineType_07_hText">GRADES:</span>
+<span class="auditLineType_07_hText"/>
+<span class="auditLineType_07_hText">RGIP  Registered In-Progress Course</span>
+<span class="auditLineType_07_hText">IS    In Session</span>
+<span class="auditLineType_07_hText">TR    Transfer Course</span>
+<span class="auditLineType_07_hText">IT    Include Transfer</span>
+<span class="auditLineType_07_hText">TW    Transfer Credit Waived - Not Usable</span>
+<span class="auditLineType_07_hText">CR    Advanced Placement Credit</span>
+<span class="auditLineType_07_hText">EP    International Exchange Credit</span>
+<span class="auditLineType_07_hText"/>
+<span class="auditLineType_07_hText">Requirements &amp; Sub-requirements:</span>
+<span class="auditLineType_07_hText"/>
+<span class="auditLineType_07_hText">+     Completed Sub-Requirement</span>
+<span class="auditLineType_07_hText">-     Incomplete Sub-Requirement</span>
+<span class="auditLineType_07_hText">NA    Requirement Not Needed</span>
+<span class="auditLineType_07_hText">OR    Or'd Sub-Requirement (one or the other required)</span>
+<span class="auditLineType_07_hText">IP    In-Progress Courses Included in Requirement or</span>
+<span class="auditLineType_07_hText">      Sub-requirement</span>
+<span class="auditLineType_07_hText">IN-P  In-Progress Credit included in overall credit count</span>
+<span class="auditLineType_07_hText">      within the sub-requirement</span>
+<span class="auditLineType_07_hText"/>
+<span class="auditLineType_07_hText">Exceptions</span>
+<span class="auditLineType_07_hText"/>
+<span class="auditLineType_07_hText">AC    Add course or add/reduce credits</span>
+<span class="auditLineType_07_hText">CS    Course substitution</span>
+<span class="auditLineType_07_hText">WC    Waive course</span>
+<span class="auditLineType_07_hText">XL    X-Line limit adjustment</span>
+<span class="auditLineType_07_hText">FC    Force course into sub-requirement</span></pre>
+                          
+                          
+                            <span class="auditLineType_10_okRequirementTitle"/><br/>
+                          
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div id="requirement" style="cursor: hand;">
+                    <table border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>
+                          
+                          <pre>
+                            
+                          </pre>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </span>
+        </font>
+		
+		</demfonts>

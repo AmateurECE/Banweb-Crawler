@@ -1,0 +1,33 @@
+################################################################################
+# NAME:		    fontschema.txt
+#
+# AUTHOR:	    Ethan D. Twardy
+#
+# DESCRIPTION:	    Basic layout of a 'font' tag in the Degree Audit HTML file.
+#
+# CREATED:	    09/16/2017
+#
+# LAST EDITED:	    09/16/2017
+###
+
+################################################################################
+# Explanation of Structure
+###
+
+
+
+################################################################################
+# Structure of Primary type
+###
+
+font/span/table/tr/<td> - The highest divisible structure for each requirement.
+    * <div onclick="toggleDisplay(this);" style="cursor: hand;"
+			onkeypress="toggleDisplay(this);">
+	- <tr>
+	    * <td> IGNORE
+	    * td/<img src="..." title="..."
+		alt="This requirement has NOT yet been completed"/>
+    * <div id="requirement" style="cursor: hand;">/table/tr/td/<pre>
+	- <span class="auditLineType_13_noRequirementEarnedLine"
+
+################################################################################

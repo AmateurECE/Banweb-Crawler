@@ -1,0 +1,108 @@
+<font>
+  <span>
+    <table border="0" cellspacing="1" cellpadding="1">
+      <tr>
+        <td>
+	  <!-- Header starts here -->
+          <div onclick="toggleDisplay(this);" style="cursor: hand;" onkeypress="toggleDisplay(this);">
+            <table border="0" cellspacing="1" cellpadding="1">
+              <tr>
+                <td valign="top">
+                  <img src="./skins/arrow_sq.gif" border="0" alt="Triangle pointing right."/>
+                </td>
+                <td valign="top">
+                  <img src="./skins/mtudefault/requirementStatus_NO.gif" title="This requirement has NOT yet been completed" alt="This requirement has NOT yet been completed"/>
+                </td>
+                <td>
+                  
+                  <pre/>
+                  
+                  
+                  <span class="auditLineType_11_noRequirementTitle">     Computer Engineering</span><br/>
+                  
+                  <span class="auditLineType_11_noRequirementTitle">       Major Requirements - 87 credits</span><br/>
+                  
+                </td>
+              </tr>
+            </table>
+          </div>
+	  <!-- Header ends here -->
+	  <!-- Requirement starts here -->
+          <div id="requirement" style="cursor: hand;">
+            <table border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td>
+                  
+                  <pre>
+		    <!-- Requirement header -->
+                    <!-- Earned credits & # of completed subrequirements. -->
+		    <span class="auditLineType_13_noRequirementEarnedLine">    Earned  55.0 credits             2 sub-reqs</span>
+		    <!-- \-\-\-\- -->
+		    <!-- Number of incomplete subrequirements -->
+		    <span class="auditLineType_15_noRequirementNeedsLine">    Needs:                            1 sub-req</span>
+		    <!-- \-\-\-\- -->
+		    <!-- \-\-\-\- -->
+		    <span class="auditLineType_09_blankLine"/>
+		    <!-- Incomplete Subrequirement -->
+		    <span class="auditLineType_17_noSubrequirementTLine">  -  1) <b>Required Courses: 81 credits</b></span>
+		    <span class="null">          Exception: Sub CS1142 for CS1141</span><!-- How to parse these? -->
+		    <!-- Completed portions of Incomplete Subrequirement -->
+		    <span class="auditLineType_21_noSubrequirementEarnedLine">           48.0 credits added 17 Sets Completed</span>
+		    <span class="auditLineType_23_noSubrequirementCourses">      Fa16 CS  1121        3.0 B    Intro to Programming I</span>
+		    <span class="auditLineType_23_noSubrequirementCourses">      Sp17 CS  1122        3.0 B    Intro to Programming II</span>
+		    <span class="auditLineType_23_noSubrequirementCourses">      Sp17 CS  2311        3.0 B    Discrete Structures</span>
+		    <span class="auditLineType_23_noSubrequirementCourses">      Fa16 EE  1110        1.0 S    Essential Math for EE</span>
+		    <span class="auditLineType_23_noSubrequirementCourses">      Fa16 EE  1111        1.0 A    ECE 1.0</span>
+		    <span class="auditLineType_23_noSubrequirementCourses">      Fa16 EE  2111        3.0 A    Electric Circuits I</span>
+		    <span class="auditLineType_23_noSubrequirementCourses">      Sp17 EE  2112        4.0 AB   Electric Circuits II and Lab</span>
+		    <span class="auditLineType_23_noSubrequirementCourses">      Fa16 EE  2174        4.0 AB   Digital Logic and Lab</span>
+		    <span class="auditLineType_23_noSubrequirementCourses">      Fa15 ENG 1101        3.0 B    Engrg Analysis &amp; Prob Solving</span>
+		    <span class="auditLineType_23_noSubrequirementCourses">      Fa15 MA  1160        4.0 CR   Calculus with Technology I</span>
+		    <span class="auditLineType_23_noSubrequirementCourses">      Fa15 MA  2160        4.0 TR   Calculus with Technology II</span>
+		    <span class="auditLineType_23_noSubrequirementCourses">      Fa15 MA  2320        2.0 BC   Elementary Linear Algebra</span>
+		    <span class="auditLineType_23_noSubrequirementCourses">      Sp16 MA  3520        2.0 BC   Elem Differential Equations</span>
+		    <span class="auditLineType_23_noSubrequirementCourses">      Sp17 MA  3710        3.0 BC   Engineering Statistics</span>
+		    <span class="auditLineType_23_noSubrequirementCourses">      Fa15 PH  1100        1.0 A    Physics by Inquiry I</span>
+		    <span class="auditLineType_23_noSubrequirementCourses">      Sp16 PH  1200        1.0 A    Physics by Inquiry II</span>
+		    <span class="auditLineType_23_noSubrequirementCourses">      Fa15 PH  2100        3.0 C    Univ Physics I-Mechanics</span>
+		    <span class="auditLineType_23_noSubrequirementCourses">      Sp16 PH  2200        3.0 C    Univ Physics II-Elec &amp; Magnet</span>
+		    <!-- \-\-\-\- -->
+		    <!-- Needed Credits Summary -->
+		    <span class="auditLineType_25_noSubrequirementNeedsSummaryLine">         Needs:   34.0 credits 11 SETS</span>
+		    <!-- \-\-\-\- -->
+		    <!-- Accepted courses for the subrequirement -->
+		    <span class="auditLineType_29_noSubrequirementAcceptCourses">        Course list: <a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=1142&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  1142</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=2321&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  2321</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=3331&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  3331</a> or <a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=3160&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  3160</a>  <a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=3411&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  3411</a>,</span>
+		    <span class="auditLineType_29_noSubrequirementAcceptCourses">           <a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=3421&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  3421</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=cs  &amp;number=4321&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">CS  4321</a>  <a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=3131&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  3131</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=3173&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  3173</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=3901&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  3901</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=4173&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  4173</a>,<a href="javascript:MM_openBrWindow('coursepreview?department=ee  &amp;number=4272&amp;job_id=0871020241918254','coursePreview','resizable=yes,width=700,height=450')">EE  4272</a></span>
+		    <span class="auditLineType_09_blankLine"/>
+		    <!-- \-\-\-\- -->
+		    <!-- \-\-\-\- -->
+		    <!-- Completed subrequirement -->
+		    <span class="auditLineType_16_okSubrequirementTLine">  +  2) <b>The 2nd discipline science course is complete</b></span>
+		    <!-- Credits completed for this subreq -->
+		    <span class="auditLineType_20_okSubrequirementEarnedLine">            3.0 credits added  0 Sets Completed</span>
+		    <!-- \-\-\-\- -->
+		    <!-- Courses taken for this subreq -->
+		    <span class="auditLineType_22_okSubrequirementCourses">      Fa15 CH  1150        3.0 BC   University Chemistry I</span>
+		    <!-- \-\-\-\- -->
+		    <!-- \-\-\-\- -->
+		    <span class="auditLineType_09_blankLine"/>
+		    <!-- Completed subrequirement -->
+		    <span class="auditLineType_16_okSubrequirementTLine">  +  3) <b>The math/science elective is complete</b></span>
+		    <!-- Credits completed for this subreq -->
+		    <span class="auditLineType_20_okSubrequirementEarnedLine">            4.0 credits added  1 course taken</span>
+		    <!-- \-\-\-\- -->
+		    <!--  Courses taken for this subreq -->
+		    <span class="auditLineType_22_okSubrequirementCourses">      Fa15 MA  3160        4.0 TR   Multivariable Calc with Tech</span>
+		    <!-- \-\-\-\- -->
+		    <!-- \-\-\-\- -->
+                  </pre>
+                </td>
+              </tr>
+            </table>
+          </div>
+	  <!-- Requirement ends here -->
+        </td>
+      </tr>
+    </table>
+  </span>
+</font>
