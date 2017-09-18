@@ -24,9 +24,15 @@ from lxml import etree
 ###
 
 class Audit(object):
+    """Audit
+    The class representing a degree audit in data-structure form.
+
+    Attributes:
+    	None.
+    """
+
     def __init__(self, auditfn):
-        """
-        __init__:
+        """__init__:
         Initialize an Audit object.
 
         Args:
