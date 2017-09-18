@@ -20,24 +20,52 @@
 import os
 import audit
 import banweb
+from sys import platform
 
 ################################################################################
 # Functions
 ###
 
+def setecho(on):
+    global out
+    if platform == 'win32':
+        if on == False:
+            out = sys.stdout
+            sys.stdout = open('\Device\Null', 'w')
+        else:
+            sys.stdout.close()
+            sys.stdout = out
+    else:
+        if on == False:
+            os.system('stty -echo')
+        else:
+            os.system('stty echo')
+
 def main():
-    """The main method - the top of the stack."""
+    """
+    main:
+    Does the thing.
+
+    Args:
+    	None.
+
+    Returns:
+    	None.
+
+    Raises:
+    	
+    """
     # TODO: The following code is for testing only.
     name = input("Username: ")
-    os.system("stty -echo") # Turn off echo for the password
+    setecho(False)
     passwd = input("Password: ")
-    os.system("stty echo") # Turn it back on.
+    setecho(True)
     print()
     ### END TODO ###
 
     mybanweb = banweb.Banweb()
     mybanweb.login(name, passwd)
-    mybanweb.get_audit()
+    audit = mybanweb.getaudit()
     
 ################################################################################
 # Main
