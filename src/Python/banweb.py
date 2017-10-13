@@ -29,14 +29,16 @@ import os
 ###
 
 class Banweb(object):
-    # TODO: insert a class PyDoc here--Google Style?
-    """Interfaces with the Banweb Server to get web pages, etc:
-    Datum:
+    """Banweb
+    Class representing the server at banweb.mtu.edu. Its class methods interface
+    with the actual server to obtain information.
+
+    Attributes:
         _ubase -- base URL
         _ulogin -- login page URL
         _uauditreq -- Audit Request page
         _jar -- cookie jar
-        _session -- reqeusts.Session object
+        _session -- requests.Session object
     """
 
     def __init__(self):

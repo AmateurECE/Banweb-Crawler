@@ -28,7 +28,9 @@ class Audit(object):
     The class representing a degree audit in data-structure form.
 
     Attributes:
-    	None.
+    	_htmlfn: The name of the Audit's HTML file
+        _jsonfn: The name of the Audit's JSON file
+        _data: Array of dicts representing all of the useful information.
     """
 
     def __init__(self, auditfn):
@@ -47,11 +49,49 @@ class Audit(object):
         try:
             fh = open(auditfn, 'r')
             root = etree.HTML(fh.read())
-            # TODO: Get all <span> tags that match 'auditLineType_...'
-            #   (Create explicit list of possible tags.)
+            _data = parsehtml(root)
             fh.close()
         except OSError as e:
             raise        
+
+    def parsehtml(self, root):
+        """parsehtml:
+        Parses the HTML file that we got from the banweb server.
+
+        Args:
+        	root: The root node of the HTML file, <html>
+
+        Returns:
+        	array of dicts representing the useful data.
+
+        Raises:
+        	TypeError: If root is not an instance of etree.Element, or None.
+        """
+        if root == None or not root.iselement()
+            raise TypeError('parsehtml takes an etree.Element argument.')
+
+        data = list()
+        for tag in root.iter('font'):
+            # TODO: Get only the ones we care about
+            data.append(parsefont(tag))
+
+    def parsefont(self, font):
+        """parsefont:
+        This function parses a font tag and returns a dict.
+
+        Args:
+        	font: The font tag.
+
+        Returns:
+        	dict: containing useful data
+
+        Raises:
+        	None.
+        """
+        if font.tag != 'font':
+            raise ValueError('Argument to parsefont must be a <font> tag.')
+
+        # TODO: Extract info with a humongous and poorly formed if-elif stmt.
 
 ################################################################################
 # Main

@@ -20,6 +20,33 @@
 # Audit
 ###
 
+Audit.tojson(filename):
+    Extract all of the useful knowledges from this Audit and put it into a .json
+file with the name `filename.' Returns true unless there was an issue. The name
+of the file should be programmatically determined so that it can be guessed by
+the program. Also printed with the dict will be a structure containing some
+basic metadata--date created, student name, etc.
+     * Calls parsehtml()
 
+Private functions:
+******************
+
+parsehtml(root):
+    This function takes the root node of an HTML tree and returns an array of
+dicts which should be passed right to a JSON printing function.
+    * Retrieve all <font> tags from the HTML.
+    * Remove the ones that will be unused (legend, etc).
+    * Pass each, iteratively, to parsefont() and append its return to the
+	array of dicts.
+    * return the array of dicts.
+
+parsefont():
+    This function takes a <font> tag and returns a dict containing the useful
+information held therein.
+    * Get the <div> tag representing the header
+	- <insert subtask>
+    * Get the <div> tag representing the body
+	- Get all of the span tags therein and assign the data from each tag
+	    to a dict member (if applicable). It's gon be one BIG if-elif stmt.
 
 ################################################################################
