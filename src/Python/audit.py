@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 ################################################################################
 # NAME:		    audit.py
 #
@@ -18,6 +19,7 @@
 ###
 
 from lxml import etree
+import os
 
 ################################################################################
 # Classes
@@ -47,9 +49,10 @@ class Audit(object):
         	OSError: In the event that a file operation is not supported.
         """
         try:
+            self._htmlfn = auditfn
             fh = open(auditfn, 'r')
             root = etree.HTML(fh.read())
-            _data = parsehtml(root)
+            self._data = self.parsehtml(root)
             fh.close()
         except OSError as e:
             raise        
@@ -67,13 +70,14 @@ class Audit(object):
         Raises:
         	TypeError: If root is not an instance of etree.Element, or None.
         """
-        if root == None or not root.iselement()
+        if root == None or not isinstance(root, etree._Element):
             raise TypeError('parsehtml takes an etree.Element argument.')
 
         data = list()
         for tag in root.iter('font'):
             # TODO: Get only the ones we care about
-            data.append(parsefont(tag))
+            data.append(self.parsefont(tag))
+        return data
 
     def parsefont(self, font):
         """parsefont:
@@ -91,13 +95,34 @@ class Audit(object):
         if font.tag != 'font':
             raise ValueError('Argument to parsefont must be a <font> tag.')
 
-        # TODO: Extract info with a humongous and poorly formed if-elif stmt.
+        data = dict()
+        num = 0
+        for span in font.iter('span'):
+            data['--'.join(((span.get('class') if span.get('class') != None
+                             else "nil", str(num))))] = span.attrib
+            # TODO: Extract info with a hugh mungus and poorly formed if-elif stmt
+            num += 1
+
+        return data
 
 ################################################################################
 # Main
 ###
 
 if __name__ == '__main__':
-    print('You\'re silly! This isn\'t a <em>real</em> module!')
+    myaudit = Audit('degaudit.html')
+    try:
+        outfh = open('temp.txt', 'w')
+        for tag in myaudit._data:
+            outfh.write('{\n')
+            for span in tag.keys():
+                outfh.write(
+                    ''.join((('\'', span, '\': ', str(tag.get(span)), '\n')))
+                )
+            outfh.write('}\n')
+        outfh.close()
+    except OSError as e:
+        raise
+    print('Done!')
 
 ################################################################################

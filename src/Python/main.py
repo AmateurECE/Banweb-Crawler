@@ -31,7 +31,7 @@ def setecho(on):
     if platform == 'win32':
         if on == False:
             out = sys.stdout
-            sys.stdout = open('\Device\Null', 'w')
+            sys.stdout = open('Nul', 'w')
         else:
             sys.stdout.close()
             sys.stdout = out
