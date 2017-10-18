@@ -20,6 +20,7 @@
 
 from lxml import etree
 import os
+import json
 
 ################################################################################
 # Classes
@@ -99,7 +100,7 @@ class Audit(object):
         num = 0
         for span in font.iter('span'):
             data['--'.join(((span.get('class') if span.get('class') != None
-                             else "nil", str(num))))] = span.attrib
+                             else "nil", str(num))))] = dict(span.attrib)
             # TODO: Extract info with a hugh mungus and poorly formed if-elif stmt
             num += 1
 
@@ -112,15 +113,18 @@ class Audit(object):
 if __name__ == '__main__':
     myaudit = Audit('degaudit.html')
     try:
-        outfh = open('temp.txt', 'w')
-        for tag in myaudit._data:
-            outfh.write('{\n')
-            for span in tag.keys():
-                outfh.write(
-                    ''.join((('\'', span, '\': ', str(tag.get(span)), '\n')))
-                )
-            outfh.write('}\n')
+        outfh = open('temp.json', 'w')
+        json.dump(myaudit._data, outfh)
         outfh.close()
+
+        unique = list()
+        for one in myaudit._data:
+            for key in one.keys():
+                if 'class' in one[key]:
+                    if not one[key]['class'] in unique:
+                        unique.append(one[key]['class'])
+        unique.sort()
+        print('\n'.join(unique))
     except OSError as e:
         raise
     print('Done!')
