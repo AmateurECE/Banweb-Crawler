@@ -1,2 +1,4 @@
 .DS_Store
 /build/
+./src/Python/__pycache__/
+./src/Python/degaudit.html
