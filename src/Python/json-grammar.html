@@ -1,0 +1,76 @@
+<html>
+  <div style="float: left; border: 2px solid black; margin: 10px; padding: 10px; background-color: white;">
+    <dl>
+      <dt><i>object</i></dt>
+      <dd><tt>{}</tt><br>
+	<tt>{</tt> <i>members</i> <tt>}</tt> </dd>
+      <dt><i>members</i></dt>
+      <dd><i>pair</i><br>
+	<i>pair</i> <tt>,</tt> <i>members</i></dd>
+      <dt><i>pair</i></dt>
+      <dd><i>string</i> <tt>:</tt> <i>value</i></dd>
+      <dt><i>array</i></dt>
+      <dd><tt>[]</tt><br>
+	<tt>[</tt> <i>elements</i> <tt>]</tt></dd>
+      <dt><i>elements</i></dt>
+      <dd><i>value</i> <br>
+	<i>value</i> <tt>,</tt> <i>elements</i></dd>
+      <dt><i>value</i></dt>
+      <dd><i>string</i><br>
+	<i>number</i><br>
+	<i>object</i><br>
+	<i>array</i><br>
+	<tt>true</tt><br>
+	<tt>false</tt><br>
+	<tt>null</tt></dd>
+    </dl>
+    <hr align=center width=144>
+    <dl>
+      <dt><i>string</i></dt>
+      <dd><tt>""</tt><br>
+	<tt>"</tt> <i>chars</i> <tt>"</tt></dd>
+      <dt><i>chars</i></dt>
+      <dd><i>char</i><br>
+	<i>char chars</i></dd>
+      <dt><i>char</i></dt>
+      <dd><small><i>any-Unicode-character-</i></small><br>
+	<small>&nbsp;&nbsp;&nbsp;&nbsp;<i>except-</i></small><b><tt>"</tt></b><small><i>-or-</i></small><b><tt>\</tt></b><small><i>-or-</i></small><br>
+	<small>&nbsp;&nbsp;&nbsp;&nbsp;<i>control-character</i></small><br>
+	<tt>\"</tt><br>
+	<tt>\\</tt><br>
+	<tt>\/</tt><br>
+	<tt>\b</tt><br>
+	<tt>\f</tt><br>
+	<tt>\n</tt><br>
+	<tt>\r</tt><br>
+	<tt>\t</tt><br>
+	<tt>\u</tt> <i>four-hex-digits</i> </dd>
+      <dt><i>number</i></dt>
+      <dd><i>int</i><br>
+	<i>int frac</i><br>
+	<i>int exp</i><br>
+	<i>int frac exp</i>
+      </dd>
+      <dt><i>int</i></dt>
+      <dd><i>digit</i><br>
+	<i>digit1-9 digits</i>
+	<br><tt>-</tt> <i>digit</i><br>
+	<tt>-</tt> <i>digit1-9 digits</i>
+      </dd>
+      <dt><i>frac</i></dt>
+      <dd><b><tt>.</tt></b> <i>digits</i></dd>
+      <dt><i>exp</i></dt>
+      <dd><i>e</i> <i>digits</i></dd>
+      <dt><i>digits</i></dt>
+      <dd><i>digit</i><br>
+	<i>digit</i> <i>digits</i></dd>
+      <dt><i>e</i></dt>
+      <dd><b><tt>e</tt></b><br>
+	<b><tt>e+</tt></b><br>
+	<b><tt>e-</tt></b><br>
+	<b><tt>E</tt></b><br>
+	<b><tt>E+</tt></b><br>
+	<b><tt>E-</tt></b></dd>
+    </dl>
+  </div>
+</html>

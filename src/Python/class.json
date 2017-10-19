@@ -1,0 +1,38 @@
+[
+    {"auditLineType_07_hText":
+     "Header text describing the requirement. Useful."},
+    {"auditLineType_09_blankLine":
+     "Useless."},
+    {"auditLineType_10_okRequirementTitle":
+     "Title of a requirement that is currently satisfied."},
+    {"auditLineType_11_noRequirementTitle":
+     "Title of a requirement not yet satisfied."},
+    {"auditLineType_12_okRequirementEarnedLine":
+     "?: Potentially used when all subrequirements are earned?"},
+    {"auditLineType_13_noRequirementEarnedLine":
+     "Progress towards filling an unsatisfied argument."},
+    {"auditLineType_15_noRequirementNeedsLine":
+     "Incomplete progress towards an unfulfilled requirement."},
+    {"auditLineType_16_okSubrequirementTLine":
+     "A completed subrequirement."},
+    {"auditLineType_17_noSubrequirementTLine":
+     "An incomplete subrequirement for an incomplete requirement."},
+    {"auditLineType_20_okSubrequirementEarnedLine":
+     "Summary of Credits (or progress) earned for a completed subrequirement. May have an 'IN-P --->' flag, indicating that it is in progress."},
+    {"auditLineType_21_noSubrequirementEarnedLine":
+     "Summary of Credits (or progress) earned for an incomplete subrequirement. May also have an 'IN-P --->' flag."},
+    {"auditLineType_22_okSubrequirementCourses":
+     "Line containing a course that counts toward a completed subrequirement. Has the semester, Course Number, credits earned, letter grade, and Course Name."},
+    {"auditLineType_23_noSubrequirementCourses":
+     "Line containing a course that counts toward an incomplete subrequirement. Has the same information as above."},
+    {"auditLineType_25_noSubrequirementNeedsSummaryLine":
+     "Summary of credits required to finish an incomplete subrequirement."},
+    {"auditLineType_27_noSubrequirementRejectCourses":
+     "List of courses that are not allowed to be used to fulfill a requirement. (Used in technical electives req, etc.)"},
+    {"auditLineType_28_okSubrequirementAcceptCourses":
+     "?: A list of courses that COULD count for a completed subrequirement?"},
+    {"auditLineType_29_noSubrequirementAcceptCourses":
+     "List of courses that are accepted towards an incomplete subrequirement."},
+    {"null":
+     "Used to mark exceptions. All possible exceptions are listed at the bottom of the degree. Be wary of this one, it seems to be the kind that is likely to change in the near future."}
+]

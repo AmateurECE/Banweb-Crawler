@@ -1,0 +1,29 @@
+// NOTE: DO NOT USE THIS JSON FILE. IT IS FOR EXAMPLE PURPOSES ONLY.
+// COMMENTS ARE NOT VALID IN JSON
+{
+    "header": "An Example Requirement",		// 07_hText
+    "satisfied": true,				// Bool - Requirement is completed or not; true | false
+    "complete": [				// Completed subrequirements.
+	{
+	    "subreq-name": "Example Subreq"	// Name of subreq
+	    "credits-complete": 3.0,		// Credits earned
+	    "credits-incomplete": 0.0,		// Credits needed
+	    "courses": [			// Courses completed
+		{
+		    "department": "ENG",	// Department
+		    "course": 1102,		// Course number
+		    "credits": 3.0,		// Num credits
+		    "grade": "B",		// Grade earned--CR | TC | A | AB ...
+		    "name": "Engineering...",	// Name of the course
+		    "semester": "Fa16"		// Semester course taken (null in "incomplete")
+		}
+	    ],
+	    "accept": null,			// Courses accepted (Used only in "incomplete" field)
+	    "reject": null			// Courses not accepted (Used only in "incomplete" field)
+	    "exceptions": [			// Action/Course pair list--derived from <span class="null"> tags.
+		["AC", "ENG1102"]		// AC | CS | WC | XL | FC
+	    ],
+	}
+    ],
+    "incomplete": null				// Incomplete subrequirements
+}
