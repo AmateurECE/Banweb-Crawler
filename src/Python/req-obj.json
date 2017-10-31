@@ -7,7 +7,8 @@
 	{
 	    "subreq-name": "Example Subreq"	// Name of subreq
 	    "credits-complete": 3.0,		// Credits earned
-	    "credits-incomplete": 0.0,		// Credits needed
+	    "credits-in-progress": 0.0,		// Credits in progress
+	    "credits-incomplete": 0.0,		// Credits needed - This is mostly for consistency with 'incomplete'
 	    "courses": [			// Courses completed
 		{
 		    "department": "ENG",	// Department
