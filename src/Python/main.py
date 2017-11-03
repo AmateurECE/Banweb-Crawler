@@ -10,7 +10,7 @@
 #
 # CREATED:	    08/08/2017
 #
-# LAST EDITED:	    08/08/2017
+# LAST EDITED:	    11/03/2017
 ###
 
 ################################################################################
@@ -61,7 +61,7 @@ def main():
     passwd = input("Password: ")
     setecho(True)
     print()
-    ### END TODO ###
+    ######
 
     mybanweb = banweb.Banweb()
     mybanweb.login(name, passwd)
