@@ -11,7 +11,7 @@
 #
 # CREATED:	    08/09/2017
 #
-# LAST EDITED:	    08/09/2017
+# LAST EDITED:	    11/03/2017
 ###
 
 ################################################################################
@@ -110,7 +110,7 @@ class Audit(object):
             # data['--'.join(((span.get('class') if span.get('class') != None
             #                  else "nil", str(num))))] = dict(span.attrib)
             # num += 1
-            # TODO: Extract info with a hugh mungus and poorly formed if-elif st
+            # TODO: Junk this and create a dispatch table
             cls = span.get('class')
             if cls == "auditLineType_07_hText":
                 # TODO: Decide if we need this.
