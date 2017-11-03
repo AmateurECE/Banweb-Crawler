@@ -1,0 +1,11 @@
+./src/Python/audit.py: Decide if we need this. | id:71ce026154b09107a1c8e9b92830123957db4169
+./src/Python/main.py: The following code is for testing only. | id:88049337e874e3bc7e85416752948874df601773
+./src/C-Perl/conftest.c: print out the struct returned. | id:8c483de34e1cc4421626ed72fa331fb4ddc9820e
+./src/C-Perl/confparse.c: HERE: Complete this if-else-if block. | id:8f570b889ae8b3b9534cb510b145ddf23a11002c
+./src/Python/audit.py: Get only the ones we care about | id:93a80d5cc160cd73011cc065c0cdd8dae760f83d
+./src/Python/audit.py: Multiline titles? | id:9c16a546a5e747197567aabda77fea9512958ff3
+./src/Python/audit.py: Junk this and create a dispatch table | id:ab8776b2cf737fb9ee6b3df385c63269b1fe1942
+./src/Python/audit.py: Check for GPA here? | id:cb3e07177e2d407e36715ce2a9e2deabcc78d41d
+./src/Python/banweb.py: Uncomment this. | id:d0953f51933c25dab132c34ae90cedc1ee0a4cad
+./src/Python/audit.py: Setup logging | id:e21ec0a730061b53fb4515d9f612134d6aaef81f
+./src/Python/banweb.py: add options for 'List All Requirements' | id:f55d732b4405bdea417bd5618605bf6f0097a962
