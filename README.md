@@ -34,3 +34,8 @@
     acknowledge that we are not responsible for any fault in security or any
     situations you may experience as a result of a malicious party obtaining
     your information.</em></p>
+
+<!--
+/* TODO: Make this into a flask app
+/* TODO: Use a template from templated.co
+-->
